@@ -16,6 +16,8 @@ def shop(request):
 def view_cart(request):
     return render(request, 'main/cart.html')
 
+def browse_images(request):
+    return render(request, 'main/browse-images.html')
 
 def products(request):
     products = Product.objects.all()

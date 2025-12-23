@@ -52,8 +52,6 @@ urlpatterns = [
     path('brand/update/<int:brand_id>/', api_views.brand_update, name='brand_update'),
     path('brand/delete/<int:brand_id>/', api_views.brand_delete, name='brand_delete'),
     path('api/brands/', api_views.get_brands, name='get_brands'),
-
-
-
+    path('browse-images/', views.browse_images, name='browse_images'),  # <-- new path
 
 ]

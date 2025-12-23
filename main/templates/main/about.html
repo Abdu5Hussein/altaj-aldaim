@@ -1,18 +1,19 @@
-{% extends 'main/base.html' %} {% load i18n %}
+{% extends 'main/base.html' %} {% load static i18n %}
 <!-- prettier-ignore -->
 {% block title %}
-{% trans "About Us - AWFERLK" %}{% endblock %} {% block content %}
+{% trans "About Us - United Group" %}
+{% endblock %} {% block content %}
 
 <!-- Page Header -->
-<section class="py-5 bg-primary text-white">
+<section class="py-5 bg-primary text-white mt-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center" data-aos="fade-up">
-        <h1 class="display-4 fw-bold mb-4">{% trans "About AWFERLK" %}</h1>
+        <h1 class="display-4 fw-bold mb-4">{% trans "About United Group" %}</h1>
         <p class="lead mb-0">
           <!-- prettier-ignore -->
           {% blocktrans %}
-          Your trusted destination for modern, reliable, and affordable online shopping.
+          A trusted manufacturer of fiberglass and artificial marble solutions—built on experience, quality, and reliable delivery.
           {% endblocktrans %}
         </p>
       </div>
@@ -30,44 +31,40 @@
         <p class="text-muted mb-4">
           <!-- prettier-ignore -->
           {% blocktrans %}
-          AWFERLK began with one simple belief: shopping should be easy, fast, and enjoyable.
-          Since 2020, we have grown from a small online shop into a trusted marketplace,
-          offering customers a seamless shopping experience with quality products, great prices,
-          and reliable service.
+          United Group was established in 2021, building on a factory that has been producing fiberglass and artificial marble since 2006. Over the years, we have evolved with the industry and expanded our capabilities to serve projects of different sizes—while maintaining consistent quality and workmanship.
           {% endblocktrans %}
         </p>
 
         <p class="text-muted mb-4">
           <!-- prettier-ignore -->
           {% blocktrans %}
-          Today, AWFERLK connects thousands of customers with fashion, electronics,
-          accessories, home essentials, beauty products, and more—handpicked to ensure
-          quality and value. Our mission is to make online shopping convenient, trustworthy,
-          and accessible for everyone.
+          Today, we deliver integrated manufacturing solutions including fiberglass products, artificial marble items, custom molds, finishing and installation support—designed to meet project requirements with durability, precision, and dependable schedules.
           {% endblocktrans %}
         </p>
-        <!--
+
         <div class="d-flex gap-3 flex-wrap">
           <div class="text-center">
-            <h4 class="fw-bold text-primary">4+</h4>
-            <p class="text-muted mb-0">{% trans "Years of Service" %}</p>
+            <h4 class="fw-bold text-primary">2006</h4>
+            <p class="text-muted mb-0">{% trans "Factory roots" %}</p>
           </div>
           <div class="text-center">
-            <h4 class="fw-bold text-primary">10,000+</h4>
-            <p class="text-muted mb-0">{% trans "Products" %}</p>
+            <h4 class="fw-bold text-primary">2021</h4>
+            <p class="text-muted mb-0">
+              {% trans "United Group established" %}
+            </p>
           </div>
           <div class="text-center">
-            <h4 class="fw-bold text-primary">5,000+</h4>
-            <p class="text-muted mb-0">{% trans "Happy Customers" %}</p>
+            <h4 class="fw-bold text-primary">500+</h4>
+            <p class="text-muted mb-0">{% trans "Projects delivered" %}</p>
           </div>
-        </div>-->
+        </div>
       </div>
 
       <div class="col-lg-6" data-aos="fade-left">
         <div class="modern-card p-4">
           <img
-            src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=80"
-            alt="{% trans 'Shopping Experience' %}"
+            src="{% static 'main/img/img-1.jpeg' %}"
+            alt="{% trans 'Manufacturing & finishing' %}"
             class="img-fluid rounded-3"
           />
         </div>
@@ -84,28 +81,27 @@
       <div class="col-lg-6" data-aos="fade-up">
         <div class="modern-card h-100 p-4">
           <div class="text-center mb-4">
-            <i class="fas fa-shopping-cart fa-3x text-primary mb-3"></i>
+            <i class="fas fa-industry fa-3x text-primary mb-3"></i>
             <h3 class="fw-bold">{% trans "Our Mission" %}</h3>
           </div>
           <p class="text-muted">
             <!-- prettier-ignore -->
             {% blocktrans %}
-            To provide a fast, secure, and enjoyable online shopping experience where customers
-            can find everything they need—delivered with quality, affordability, and trust.
+            To provide high-quality fiberglass and artificial marble manufacturing solutions that meet project needs—delivered with precision, durability, and trusted timelines.
             {% endblocktrans %}
           </p>
           <ul class="list-unstyled text-muted">
             <li class="mb-2">
               <i class="fas fa-check-circle text-success me-2"></i>
-              {% trans "High-quality products" %}
+              {% trans "Quality-focused production" %}
             </li>
             <li class="mb-2">
               <i class="fas fa-check-circle text-success me-2"></i>
-              {% trans "Competitive and fair prices" %}
+              {% trans "Custom solutions for projects" %}
             </li>
             <li class="mb-2">
               <i class="fas fa-check-circle text-success me-2"></i>
-              {% trans "Exceptional customer care" %}
+              {% trans "Professional finishing & delivery" %}
             </li>
           </ul>
         </div>
@@ -115,28 +111,27 @@
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
         <div class="modern-card h-100 p-4">
           <div class="text-center mb-4">
-            <i class="fas fa-eye fa-3x text-primary mb-3"></i>
+            <i class="fas fa-lightbulb fa-3x text-primary mb-3"></i>
             <h3 class="fw-bold">{% trans "Our Vision" %}</h3>
           </div>
           <p class="text-muted">
             <!-- prettier-ignore -->
             {% blocktrans %}
-            To become the region’s most loved online shopping destination—known for innovation,
-            trust, and a world-class customer experience.
+            To become a leading manufacturer in the region for fiberglass and artificial marble—recognized for innovation, craftsmanship, and reliable project execution.
             {% endblocktrans %}
           </p>
           <ul class="list-unstyled text-muted">
             <li class="mb-2">
               <i class="fas fa-star text-warning me-2"></i>
-              {% trans "Trusted Shopping Platform" %}
+              {% trans "Continuous improvement & innovation" %}
             </li>
             <li class="mb-2">
               <i class="fas fa-star text-warning me-2"></i>
-              {% trans "Continuous Innovation" %}
+              {% trans "Reliable project partnerships" %}
             </li>
             <li class="mb-2">
               <i class="fas fa-star text-warning me-2"></i>
-              {% trans "Expanding Product Variety" %}
+              {% trans "Expanding products & capabilities" %}
             </li>
           </ul>
         </div>
@@ -145,15 +140,15 @@
   </div>
 </section>
 
-<!-- Values -->
+<!-- What We Do -->
 <section class="py-5">
   <div class="container">
     <div class="text-center mb-5" data-aos="fade-up">
-      <h2 class="display-5 fw-bold mb-3">{% trans "Our Values" %}</h2>
+      <h2 class="display-5 fw-bold mb-3">{% trans "What We Do" %}</h2>
       <p class="lead text-muted">
         <!-- prettier-ignore -->
         {% blocktrans %}
-        The values that define our brand and guide every shopping experience.
+        We deliver manufacturing solutions for fiberglass and artificial marble—built for durability, clean finishing, and real project requirements.
         {% endblocktrans %}
       </p>
     </div>
@@ -161,12 +156,12 @@
     <div class="row g-4">
       <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
         <div class="modern-card h-100 p-4 text-center">
-          <i class="fas fa-gem fa-2x text-warning mb-3"></i>
-          <h5 class="fw-bold mb-3">{% trans "Quality" %}</h5>
+          <i class="fas fa-layer-group fa-2x text-primary mb-3"></i>
+          <h5 class="fw-bold mb-3">{% trans "Fiberglass Products" %}</h5>
           <p class="text-muted">
             <!-- prettier-ignore -->
             {% blocktrans %}
-            We carefully select every product to ensure the best quality for our customers.
+            Manufacturing fiberglass items and components with strong materials, accurate molding, and consistent finishing—suitable for industrial and project use.
             {% endblocktrans %}
           </p>
         </div>
@@ -174,12 +169,12 @@
 
       <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
         <div class="modern-card h-100 p-4 text-center">
-          <i class="fas fa-handshake fa-2x text-success mb-3"></i>
-          <h5 class="fw-bold mb-3">{% trans "Trust" %}</h5>
+          <i class="fas fa-gem fa-2x text-warning mb-3"></i>
+          <h5 class="fw-bold mb-3">{% trans "Artificial Marble" %}</h5>
           <p class="text-muted">
             <!-- prettier-ignore -->
             {% blocktrans %}
-            From product descriptions to delivery, we believe in transparency and honesty.
+            Producing artificial marble solutions with attractive finishes and durable performance—ideal for interiors, counters, and custom designs.
             {% endblocktrans %}
           </p>
         </div>
@@ -187,12 +182,12 @@
 
       <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
         <div class="modern-card h-100 p-4 text-center">
-          <i class="fas fa-users fa-2x text-primary mb-3"></i>
-          <h5 class="fw-bold mb-3">{% trans "Customer First" %}</h5>
+          <i class="fas fa-tools fa-2x text-success mb-3"></i>
+          <h5 class="fw-bold mb-3">{% trans "Custom Manufacturing" %}</h5>
           <p class="text-muted">
             <!-- prettier-ignore -->
             {% blocktrans %}
-            Your satisfaction comes first. Our team is always ready to help and support.
+            Tailored manufacturing for special requirements, including molds, sizing, finishing, and project support—delivered with clear specs and reliable timelines.
             {% endblocktrans %}
           </p>
         </div>
@@ -201,25 +196,25 @@
   </div>
 </section>
 
-<!-- Team CTA -->
+<!-- CTA -->
 <section class="py-5 section-cta text-center">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto" data-aos="zoom-in">
-        <h3 class="fw-bold mb-3">{% trans "Shop with Confidence" %}</h3>
+        <h3 class="fw-bold mb-3">{% trans "Build with Confidence" %}</h3>
         <p class="lead mb-4">
           <!-- prettier-ignore -->
           {% blocktrans %}
-          Join thousands of customers who trust AWFERLK for quality, convenience, and great value.
-          Your next favorite product is just a click away!
+          Partner with United Group for dependable fiberglass and artificial marble solutions.
+          Tell us about your project and we will help you choose the right materials, finish, and execution plan.
           {% endblocktrans %}
         </p>
         <a
-          href="{% url 'shop' %}"
+          href="{% url 'contact' %}"
           class="btn btn-primary-modern btn-lg btn-modern"
         >
-          <i class="fas fa-shopping-bag me-2"></i>
-          {% trans "Start Shopping" %}
+          <i class="fas fa-headset me-2"></i>
+          {% trans "Request a Quote" %}
         </a>
       </div>
     </div>
