@@ -3,543 +3,469 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-23 14:04+0200\n"
-"PO-Revision-Date: 2025-12-21 11:51+0200\n"
+"POT-Creation-Date: 2026-01-30 20:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Arabic <LL@li.org>\n"
-"Language: ar\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
-#: .\main\templates copy\main\footer.html:6
-#: .\main\templates\main\footer.html:6
-msgid "Copyright &copy; 2020 Company Name"
-msgstr "حقوق النشر &copy; 2020 اسم الشركة"
-
-#: .\main\templates copy\main\footer.html:7
-#: .\main\templates\main\footer.html:7
-msgid "Designed by TOOPLATE"
-msgstr "تصميم بواسطة TOOPLATE"
-
-#: .\main\templates\main\404.html:3
 msgid "Page Not Found - AWFERLK Solutions"
-msgstr "الصفحة غير موجودة - اوفرلك للحلول التقنية"
+msgstr "الصفحة غير موجودة - حلول AWFERLK"
 
-#: .\main\templates\main\404.html:15
 msgid "404 - Page Not Found"
 msgstr "404 - الصفحة غير موجودة"
 
-#: .\main\templates\main\404.html:18
 msgid ""
 " The page you're looking for doesn't exist or has been\n"
 "          moved. "
 msgstr ""
-" الصفحة التي تبحث عنها غير موجودة أو تم نقلها\n"
-"          إلى مكان آخر. "
+" الصفحة التي تبحث عنها غير موجودة أو ربما تم\n"
+"          نقلها. "
 
-#: .\main\templates\main\404.html:35
 msgid "What Happened?"
-msgstr "ما الذي حدث؟"
+msgstr "ماذا حدث؟"
 
-#: .\main\templates\main\404.html:39
 msgid ""
 " We couldn't find the page you requested. This might\n"
 "            be because: "
 msgstr ""
-" لم نتمكن من العثور على الصفحة المطلوبة. قد يكون ذلك\n"
-"            للأسباب التالية: "
+" لم نتمكن من العثور على الصفحة التي طلبتها. قد يكون ذلك\n"
+"            بسبب: "
 
-#: .\main\templates\main\404.html:46
 msgid "The URL might be misspelled"
-msgstr "ربما تم إدخال رابط الصفحة بشكل غير صحيح"
+msgstr "قد يكون رابط الصفحة مكتوبًا بشكل خاطئ"
 
-#: .\main\templates\main\404.html:50
 msgid "The page has been moved or deleted"
-msgstr "ربما تم نقل الصفحة أو حذفها"
+msgstr "قد تكون الصفحة قد نُقلت أو تم حذفها"
 
-#: .\main\templates\main\404.html:54
 msgid "You might have followed an outdated link"
-msgstr "ربما استخدمت رابطًا قديمًا أو غير محدث"
+msgstr "قد تكون فتحت رابطًا قديمًا"
 
-#: .\main\templates\main\404.html:61
 msgid "Back to Homepage"
 msgstr "العودة إلى الصفحة الرئيسية"
 
-#: .\main\templates\main\404.html:66
 msgid "Contact Support"
-msgstr "الاتصال بالدعم"
+msgstr "تواصل مع الدعم"
 
-#: .\main\templates\main\404.html:77
 msgid "Helpful Links"
 msgstr "روابط مفيدة"
 
-#: .\main\templates\main\404.html:88 .\main\templates\main\shop.html:1016
 msgid "Shop"
 msgstr "المتجر"
 
-#: .\main\templates\main\404.html:90
 msgid "Explore our product catalog"
-msgstr "استكشف قائمة منتجاتنا"
+msgstr "استعرض كتالوج منتجاتنا"
 
-#: .\main\templates\main\404.html:102
 msgid "Documentation"
 msgstr "التوثيق"
 
-#: .\main\templates\main\404.html:104
 msgid "Browse our help center"
-msgstr "تصفّح مركز المساعدة"
+msgstr "تصفح مركز المساعدة"
 
-#: .\main\templates\main\404.html:116
 msgid "Blog & News"
 msgstr "المدونة والأخبار"
 
-#: .\main\templates\main\404.html:118
 msgid "Read our latest updates"
-msgstr "اطّلع على آخر التحديثات"
+msgstr "اقرأ آخر التحديثات"
 
-#: .\main\templates\main\404.html:130 .\main\templates\main\base.html:976
 msgid "About Us"
 msgstr "من نحن"
 
-#: .\main\templates\main\404.html:132
 msgid "Learn more about our company"
 msgstr "تعرّف أكثر على شركتنا"
 
-#: .\main\templates\main\404.html:149
 msgid "Recent Updates"
 msgstr "آخر التحديثات"
 
-#: .\main\templates\main\404.html:151
 msgid "You might be interested in these pages"
-msgstr "قد تهمّك هذه الصفحات"
+msgstr "قد تهمك هذه الصفحات"
 
-#: .\main\templates\main\404.html:164
 msgid "New Features"
-msgstr "مزايا جديدة"
+msgstr "ميزات جديدة"
 
-#: .\main\templates\main\404.html:166
 msgid "Discover our latest platform enhancements and tools"
-msgstr "اكتشف أحدث التحسينات والأدوات في منصّتنا"
+msgstr "اكتشف أحدث تحسينات المنصة والأدوات"
 
-#: .\main\templates\main\404.html:169
 msgid "Explore Features"
-msgstr "استكشاف المزايا"
+msgstr "استكشاف الميزات"
 
-#: .\main\templates\main\404.html:184
 msgid "Tutorials"
-msgstr "الدروس والشروحات"
+msgstr "شروحات"
 
-#: .\main\templates\main\404.html:187
 msgid "Step-by-step guides to get the most from our solutions"
-msgstr "شروحات خطوة بخطوة لتحقيق أقصى استفادة من حلولنا"
+msgstr "أدلة خطوة بخطوة للاستفادة القصوى من حلولنا"
 
-#: .\main\templates\main\404.html:190
 msgid "View Tutorials"
 msgstr "عرض الشروحات"
 
-#: .\main\templates\main\404.html:205
 msgid "Events"
 msgstr "الفعاليات"
 
-#: .\main\templates\main\404.html:207
 msgid "Join our webinars, workshops, and community events"
-msgstr "انضم إلى الندوات وورش العمل والفعاليات المجتمعية الخاصة بنا"
+msgstr "انضم إلى ندواتنا وورش العمل وفعاليات المجتمع"
 
-#: .\main\templates\main\404.html:210
 msgid "See Events"
 msgstr "عرض الفعاليات"
 
-#: .\main\templates\main\about.html:4
-msgid "About Us - United Group"
-msgstr "من نحن - المجموعة المتحدة"
+msgid "About Us - Altaj Aldaim"
+msgstr "من نحن - التاج الدائم"
 
-#: .\main\templates\main\about.html:12 .\main\templates\main\home.html:153
-msgid "About United Group"
-msgstr "عن المجموعة المتحدة"
+msgid "About Altaj Aldaim"
+msgstr "نبذة عن التاج الدائم"
 
-#: .\main\templates\main\about.html:15
 msgid ""
 "\n"
-"          A trusted manufacturer of fiberglass and artificial marble "
-"solutions—built on experience, quality, and reliable delivery.\n"
-"          "
+"            We specialize in premium engine oils, lubricants, and automotive "
+"fluids—combined with trusted service support to keep vehicles running at "
+"peak performance.\n"
+"            "
 msgstr ""
 "\n"
-"          مُصنّع موثوق لحلول الألياف الزجاجية والرخام الصناعي — مبني على "
-"الخبرة والجودة والالتزام بالتسليم.\n"
-"          "
+"            نحن متخصصون في زيوت المحركات الممتازة، ومواد التشحيم، وسوائل السيارات—"
+"مع دعم خدمي موثوق للحفاظ على عمل المركبات بأفضل أداء.\n"
+"            "
 
-#: .\main\templates\main\about.html:29
 msgid "Our Story"
 msgstr "قصتنا"
 
-#: .\main\templates\main\about.html:33
+msgid "Get Advice"
+msgstr "احصل على نصيحة"
+
+msgid "Original products"
+msgstr "منتجات أصلية"
+
+msgid "Support & guidance"
+msgstr "دعم وإرشاد"
+
+msgid "Delivery & availability"
+msgstr "التوفر والتوصيل"
+
+msgid "Premium Engine Oil"
+msgstr "زيوت محركات ممتازة"
+
 msgid ""
 "\n"
-"          United Group was established in 2021, building on a factory that "
-"has been producing fiberglass and artificial marble since 2006. Over the "
-"years, we have evolved with the industry and expanded our capabilities to "
-"serve projects of different sizes—while maintaining consistent quality and "
-"workmanship.\n"
-"          "
+"            Altaj Aldaim was created to make choosing the right engine oil "
+"simple and reliable. We focus on supplying original, high-quality oils and "
+"fluids that match manufacturer specifications—so drivers and workshops can "
+"protect engines, improve efficiency, and extend vehicle life.\n"
+"            "
 msgstr ""
 "\n"
-"          تأسست المجموعة المتحدة في عام 2021 اعتمادًا على مصنع يعمل في إنتاج "
-"الألياف الزجاجية والرخام الصناعي منذ عام 2006.\n"
-"          وعلى مر السنين تطورنا مع تطور القطاع ووسعنا قدراتنا لخدمة المشاريع "
-"بمختلف أحجامها — مع الحفاظ على جودة ثابتة وحِرفة عالية.\n"
-"          "
+"            تم إنشاء التاج الدائم لجعل اختيار زيت المحرك المناسب أمرًا بسيطًا وموثوقًا. "
+"نركز على توفير زيوت وسوائل أصلية عالية الجودة مطابقة لمواصفات الشركة المصنّعة—"
+"ليتمكن السائقون وورش الصيانة من حماية المحركات، وتحسين الكفاءة، وإطالة عمر المركبة.\n"
+"            "
 
-#: .\main\templates\main\about.html:40
 msgid ""
 "\n"
-"          Today, we deliver integrated manufacturing solutions including "
-"fiberglass products, artificial marble items, custom molds, finishing and "
-"installation support—designed to meet project requirements with durability, "
-"precision, and dependable schedules.\n"
-"          "
+"            Over time, we expanded beyond products into service support: "
+"helping customers select correct viscosity grades (such as 5W-30 and "
+"10W-40), understand oil standards, and plan regular maintenance—backed by "
+"consistent availability and dependable delivery.\n"
+"            "
 msgstr ""
 "\n"
-"          اليوم نقدم حلول تصنيع متكاملة تشمل منتجات الألياف الزجاجية، "
-"ومنتجات الرخام الصناعي، والقوالب الخاصة، وأعمال التشطيب ودعم التركيب —\n"
-"          لتلبية متطلبات المشاريع بمتانة ودقة وجداول زمنية موثوقة.\n"
-"          "
+"            مع مرور الوقت توسعنا من مجرد توفير المنتجات إلى تقديم دعم خدمي: "
+"نساعد العملاء على اختيار درجات اللزوجة الصحيحة (مثل 5W-30 و10W-40)، "
+"وفهم معايير الزيوت، ووضع خطة صيانة دورية—بدعم من توفر مستمر وتوصيل موثوق.\n"
+"            "
 
-#: .\main\templates\main\about.html:48
-msgid "Factory roots"
-msgstr "جذور المصنع"
+msgid "Quality & Authenticity"
+msgstr "الجودة والأصالة"
 
-#: .\main\templates\main\about.html:53
-msgid "United Group established"
-msgstr "تأسيس المجموعة المتحدة"
+msgid ""
+"\n"
+"                      We supply original oils and fluids from trusted brands—"
+"stored and handled properly to preserve performance.\n"
+"                      "
+msgstr ""
+"\n"
+"                      نوفر زيوتًا وسوائل أصلية من علامات تجارية موثوقة—"
+"ومخزنة ومُتعامل معها بشكل صحيح للحفاظ على الأداء.\n"
+"                      "
 
-#: .\main\templates\main\about.html:58 .\main\templates\main\home.html:241
-msgid "Projects delivered"
-msgstr "مشاريع تم تنفيذها"
+msgid "Service Guidance"
+msgstr "إرشاد خدمي"
 
-#: .\main\templates\main\about.html:67
-msgid "Manufacturing & finishing"
-msgstr "التصنيع والتشطيب"
+msgid ""
+"\n"
+"                      Practical recommendations for oil type, intervals, and "
+"fluids—based on driving conditions and vehicle needs.\n"
+"                      "
+msgstr ""
+"\n"
+"                      توصيات عملية لنوع الزيت وفترات التغيير والسوائل—"
+"وفقًا لظروف القيادة واحتياجات المركبة.\n"
+"                      "
 
-#: .\main\templates\main\about.html:85
+msgid "Availability & Delivery"
+msgstr "التوفر والتوصيل"
+
+msgid ""
+"\n"
+"                      Fast fulfillment for drivers and workshops—so the "
+"right oil is always ready when maintenance is due.\n"
+"                      "
+msgstr ""
+"\n"
+"                      تلبية سريعة لطلبات السائقين وورش الصيانة—"
+"ليكون الزيت المناسب جاهزًا دائمًا عند موعد الصيانة.\n"
+"                      "
+
+msgid "Mission & Vision"
+msgstr "الرسالة والرؤية"
+
+msgid "Performance, protection, and trusted service."
+msgstr "أداء وحماية وخدمة موثوقة."
+
 msgid "Our Mission"
-msgstr "مهمّتنا"
+msgstr "رسالتنا"
 
-#: .\main\templates\main\about.html:89
 msgid ""
 "\n"
-"            To provide high-quality fiberglass and artificial marble "
-"manufacturing solutions that meet project needs—delivered with precision, "
-"durability, and trusted timelines.\n"
-"            "
+"              To deliver premium engine oils and automotive fluids—supported "
+"by honest recommendations and dependable service—so every vehicle gets the "
+"right protection and performance.\n"
+"              "
 msgstr ""
 "\n"
-"            تقديم حلول تصنيع عالية الجودة في الألياف الزجاجية والرخام "
-"الصناعي تلبي احتياجات المشاريع —\n"
-"            مع دقة في التنفيذ، ومتانة في النتائج، وجداول زمنية موثوقة.\n"
-"            "
+"              تقديم زيوت محركات ممتازة وسوائل سيارات—"
+"مدعومة بتوصيات صادقة وخدمة موثوقة—"
+"لضمان حصول كل مركبة على الحماية والأداء المناسبين.\n"
+"              "
 
-#: .\main\templates\main\about.html:96
-msgid "Quality-focused production"
-msgstr "إنتاج يركز على الجودة"
+msgid "Original oils & trusted brands"
+msgstr "زيوت أصلية وعلامات تجارية موثوقة"
 
-#: .\main\templates\main\about.html:100
-msgid "Custom solutions for projects"
-msgstr "حلول مخصّصة للمشاريع"
+msgid "Correct specs & viscosity guidance"
+msgstr "مواصفات صحيحة وإرشاد بدرجات اللزوجة"
 
-#: .\main\templates\main\about.html:104
-msgid "Professional finishing & delivery"
-msgstr "تشطيب وتسليم باحترافية"
+msgid "Reliable supply & support for workshops"
+msgstr "توريد موثوق ودعم لورش الصيانة"
 
-#: .\main\templates\main\about.html:115
 msgid "Our Vision"
 msgstr "رؤيتنا"
 
-#: .\main\templates\main\about.html:119
 msgid ""
 "\n"
-"            To become a leading manufacturer in the region for fiberglass "
-"and artificial marble—recognized for innovation, craftsmanship, and reliable "
-"project execution.\n"
-"            "
+"              To be the most trusted destination for car oils and automotive "
+"services—known for authenticity, technical knowledge, and customer-first "
+"delivery.\n"
+"              "
 msgstr ""
 "\n"
-"            أن نكون من الرواد في المنطقة في تصنيع الألياف الزجاجية والرخام "
-"الصناعي —\n"
-"            مع سمعة قائمة على الابتكار والحِرفة والتنفيذ الموثوق للمشاريع.\n"
-"            "
+"              أن نكون الوجهة الأكثر ثقة لزيوت السيارات وخدماتها—"
+"معروفين بالأصالة والمعرفة الفنية وتوصيل يضع العميل أولاً.\n"
+"              "
 
-#: .\main\templates\main\about.html:126
-msgid "Continuous improvement & innovation"
-msgstr "تحسين وابتكار مستمر"
+msgid "Better service and faster response"
+msgstr "خدمة أفضل واستجابة أسرع"
 
-#: .\main\templates\main\about.html:130
-msgid "Reliable project partnerships"
-msgstr "شراكات موثوقة للمشاريع"
+msgid "More products and fluid solutions"
+msgstr "منتجات أكثر وحلول سوائل متنوعة"
 
-#: .\main\templates\main\about.html:134
-msgid "Expanding products & capabilities"
-msgstr "توسيع المنتجات والقدرات"
+msgid "Stronger partnerships with workshops"
+msgstr "شراكات أقوى مع ورش الصيانة"
 
-#: .\main\templates\main\about.html:147
-msgid "What We Do"
+msgid "What We Offer"
 msgstr "ماذا نقدم"
 
-#: .\main\templates\main\about.html:150
 msgid ""
 "\n"
-"        We deliver manufacturing solutions for fiberglass and artificial "
-"marble—built for durability, clean finishing, and real project "
-"requirements.\n"
-"        "
-msgstr ""
-"\n"
-"        نقدم حلول تصنيع للفيبرجلاس والرخام الصناعي — مبنية على المتانة "
-"وتشطيب نظيف ومتطلبات المشاريع الواقعية.\n"
-"        "
-
-#: .\main\templates\main\about.html:160
-msgid "Fiberglass Products"
-msgstr "منتجات الألياف الزجاجية"
-
-#: .\main\templates\main\about.html:163
-msgid ""
-"\n"
-"            Manufacturing fiberglass items and components with strong "
-"materials, accurate molding, and consistent finishing—suitable for "
-"industrial and project use.\n"
-"            "
-msgstr ""
-"\n"
-"            تصنيع منتجات ومكوّنات الألياف الزجاجية بخامات قوية وتشكيل دقيق "
-"وتشطيب ثابت — مناسبة للاستخدام الصناعي والمشاريع.\n"
-"            "
-
-#: .\main\templates\main\about.html:173
-msgid "Artificial Marble"
-msgstr "الرخام الصناعي"
-
-#: .\main\templates\main\about.html:176
-msgid ""
-"\n"
-"            Producing artificial marble solutions with attractive finishes "
-"and durable performance—ideal for interiors, counters, and custom designs.\n"
-"            "
-msgstr ""
-"\n"
-"            إنتاج حلول الرخام الصناعي بتشطيبات جذابة وأداء متين — مثالي "
-"للديكورات الداخلية والكاونترات والتصاميم الخاصة.\n"
-"            "
-
-#: .\main\templates\main\about.html:186
-msgid "Custom Manufacturing"
-msgstr "تصنيع حسب الطلب"
-
-#: .\main\templates\main\about.html:189
-msgid ""
-"\n"
-"            Tailored manufacturing for special requirements, including "
-"molds, sizing, finishing, and project support—delivered with clear specs and "
-"reliable timelines.\n"
-"            "
-msgstr ""
-"\n"
-"            تصنيع مخصص للمتطلبات الخاصة يشمل القوالب والمقاسات والتشطيب ودعم "
-"المشروع — بمواصفات واضحة ومواعيد موثوقة.\n"
-"            "
-
-#: .\main\templates\main\about.html:204
-msgid "Build with Confidence"
-msgstr "نفّذ مشروعك بثقة"
-
-#: .\main\templates\main\about.html:207
-msgid ""
-"\n"
-"          Partner with United Group for dependable fiberglass and artificial "
-"marble solutions.\n"
-"          Tell us about your project and we will help you choose the right "
-"materials, finish, and execution plan.\n"
+"          High-quality oils and fluids—plus practical guidance and service "
+"support to match your vehicle and driving conditions.\n"
 "          "
 msgstr ""
 "\n"
-"          كن شريكًا لـ المجموعة المتحدة للحصول على حلول موثوقة في الألياف "
-"الزجاجية والرخام الصناعي.\n"
-"          حدّثنا عن مشروعك وسنساعدك في اختيار الخامات المناسبة والتشطيب وخطة "
-"التنفيذ.\n"
+"          زيوت وسوائل عالية الجودة—"
+"بالإضافة إلى إرشادات عملية ودعم خدمي يناسب مركبتك وظروف قيادتك.\n"
 "          "
 
-#: .\main\templates\main\about.html:217 .\main\templates\main\home.html:94
-msgid "Request a Quote"
-msgstr "اطلب عرض سعر"
+msgid "Engine Oils"
+msgstr "زيوت المحركات"
 
-#: .\main\templates\main\base.html:16
+msgid ""
+"\n"
+"              Synthetic and mineral oils in popular grades like 5W-30, "
+"10W-40, and more—selected for protection, cleanliness, and efficiency.\n"
+"              "
+msgstr ""
+"\n"
+"              زيوت صناعية ومعدنية بدرجات شائعة مثل 5W-30 و10W-40 وغيرها—"
+"مختارة للحماية والنظافة والكفاءة.\n"
+"              "
+
+msgid "Fluids & Lubricants"
+msgstr "سوائل ومواد تشحيم"
+
+msgid ""
+"\n"
+"              Transmission fluids, brake fluids, coolants, power steering "
+"fluids, and greases—built for consistent performance in heat and heavy use.\n"
+"              "
+msgstr ""
+"\n"
+"              سوائل ناقل الحركة، وسوائل الفرامل، ومبردات، وسوائل الدركسيون،"
+" والشحوم—مصممة لأداء ثابت في الحرارة والاستخدام الشاق.\n"
+"              "
+
+msgid "Service Support"
+msgstr "الدعم الخدمي"
+
+msgid ""
+"\n"
+"              Help selecting the correct oil and service plan, "
+"recommendations for maintenance intervals, and support for workshops and "
+"fleet customers.\n"
+"              "
+msgstr ""
+"\n"
+"              المساعدة في اختيار الزيت المناسب وخطة الخدمة،"
+" وتوصيات لفترات الصيانة، ودعم لورش الصيانة وعملاء الأساطيل.\n"
+"              "
+
+msgid "Need Help Choosing the Right Oil?"
+msgstr "تحتاج مساعدة لاختيار الزيت المناسب؟"
+
+msgid ""
+"\n"
+"            Tell us your vehicle model and driving conditions, and our team "
+"will recommend the best oil grade and fluids for maximum protection.\n"
+"            "
+msgstr ""
+"\n"
+"            أخبرنا بموديل مركبتك وظروف القيادة، وسيوصي فريقنا بأفضل درجة زيت"
+" والسوائل المناسبة لأقصى حماية.\n"
+"            "
+
+msgid "Contact Us"
+msgstr "تواصل معنا"
+
 msgid "Heavy Duty Parts Hub"
-msgstr "Heavy Duty Parts Hub"
+msgstr "مركز قطع الغيار الثقيلة"
 
-#: .\main\templates\main\base.html:750
 msgid "Home"
 msgstr "الرئيسية"
 
-#: .\main\templates\main\base.html:759
 msgid "About"
 msgstr "من نحن"
 
-#: .\main\templates\main\base.html:769
 msgid "Parts"
-msgstr "المنتجات"
+msgstr "القطع"
 
-#: .\main\templates\main\base.html:778
-#: .\main\templates\main\dashboard.html:199
 msgid "Brands"
 msgstr "العلامات التجارية"
 
-#: .\main\templates\main\base.html:787
 msgid "Clients"
 msgstr "العملاء"
 
-#: .\main\templates\main\base.html:796 .\main\templates\main\base.html:997
 msgid "Contact"
-msgstr "تواصل معنا"
+msgstr "اتصل بنا"
 
-#: .\main\templates\main\base.html:849
 msgid "Dashboard"
 msgstr "لوحة التحكم"
 
-#: .\main\templates\main\base.html:856
 msgid "Logout"
 msgstr "تسجيل الخروج"
 
-#: .\main\templates\main\base.html:860
 msgid "Login"
 msgstr "تسجيل الدخول"
 
-#: .\main\templates\main\base.html:863
 msgid "Register"
-msgstr "التسجيل"
+msgstr "إنشاء حساب"
 
-#: .\main\templates\main\base.html:903
 msgid "Login to Dashboard"
-msgstr "تسجيل الدخول للوحة التحكم"
+msgstr "تسجيل الدخول إلى لوحة التحكم"
 
-#: .\main\templates\main\base.html:955
 msgid "Company"
 msgstr "الشركة"
 
-#: .\main\templates\main\base.html:987
-#: .\main\templates\main\dashboard.html:431
-#: .\main\templates\main\dashboard8.html:339
-msgid "Products"
-msgstr "المنتجات"
-
-#: .\main\templates\main\base.html:1003
 msgid "not set"
 msgstr "غير محدد"
 
-#: .\main\templates\main\base.html:1023
 msgid "Top Brands"
 msgstr "أفضل العلامات التجارية"
 
-#: .\main\templates\main\base.html:1035
 msgid "All rights reserved. | Powered by. SITEX"
-msgstr "جميع الحقوق محفوظة | تم تطوير هذا الموقع من قبل سايتكس"
+msgstr "جميع الحقوق محفوظة. | تم التطوير من قبل SITEX"
 
-#: .\main\templates\main\base.html:1040
 msgid "Privacy"
 msgstr "الخصوصية"
 
-#: .\main\templates\main\base.html:1041
 msgid "Terms"
 msgstr "الشروط"
 
-#: .\main\templates\main\base.html:1042
 msgid "Support"
 msgstr "الدعم"
 
-#: .\main\templates\main\base.html:1241
 msgid "No brands available."
 msgstr "لا توجد علامات تجارية متاحة."
 
-#: .\main\templates\main\base.html:1276
 msgid "Failed to load brands. Please try again later."
-msgstr "فشل في تحميل العلامات التجارية. يرجى المحاولة لاحقًا."
+msgstr "فشل تحميل العلامات التجارية. يرجى المحاولة لاحقًا."
 
-#: .\main\templates\main\browse-images.html:6
 msgid "Project"
-msgstr "مشاريعنا"
+msgstr "المشروع"
 
-#: .\main\templates\main\browse-images.html:6
 msgid "Gallery"
-msgstr "معرض الصور"
+msgstr "المعرض"
 
-#: .\main\templates\main\browse-images.html:157
 msgid "Open original"
-msgstr "افتح الصورة"
+msgstr "فتح الأصل"
 
-#: .\main\templates\main\browse-images.html:210
 msgid "Browse images"
-msgstr "عرض الصور"
+msgstr "تصفح الصور"
 
-#: .\main\templates\main\browse-images.html:214
 msgid "Our projects"
 msgstr "مشاريعنا"
 
-#: .\main\templates\main\browse-images.html:218
 msgid "Images from products and projects we have worked on."
-msgstr "صور من منتجاتنا والمشاريع التي اشتغلنا عليها"
+msgstr "صور من المنتجات والمشاريع التي عملنا عليها."
 
-#: .\main\templates\main\browse-images.html:224
 msgid "Copy page link"
 msgstr "نسخ رابط الصفحة"
 
-#: .\main\templates\main\browse-images.html:234
-#, fuzzy
-#| msgid "Explore Our Products"
 msgid "More Projects"
-msgstr "استكشف منتجاتنا"
+msgstr "المزيد من المشاريع"
 
-#: .\main\templates\main\browse-images.html:243
-#, fuzzy
-#| msgid "Clients"
 msgid "Client"
-msgstr "العملاء"
+msgstr "عميل"
 
-#: .\main\templates\main\browse-images.html:253
 msgid "Copied!"
-msgstr "تم النسخ"
+msgstr "تم النسخ!"
 
-#: .\main\templates\main\browse-images.html:326
 msgid "Link copied"
 msgstr "تم نسخ الرابط"
 
-#: .\main\templates\main\browse-images.html:328
 msgid "Copy failed"
 msgstr "فشل النسخ"
 
-#: .\main\templates\main\clients.html:4
-#, fuzzy
-#| msgid "Page Not Found - AWFERLK Solutions"
 msgid "Our Clients - AWFERLK Solutions"
-msgstr "الصفحة غير موجودة - اوفرلك للحلول التقنية"
+msgstr "عملاؤنا - حلول AWFERLK"
 
-#: .\main\templates\main\clients.html:12
 msgid "Our Valued Clients"
-msgstr ""
+msgstr "عملاؤنا الكرام"
 
-#: .\main\templates\main\clients.html:15
 msgid ""
 "\n"
 "          Trusted by industry leaders and innovative startups worldwide\n"
 "          "
 msgstr ""
+"\n"
+"          موثوق بنا من قِبل رواد الصناعة والشركات الناشئة المبتكرة حول العالم\n"
+"          "
 
-#: .\main\templates\main\clients.html:31
 msgid ""
 "\n"
 "          We take pride in the strong relationships we've built with our "
@@ -549,16 +475,18 @@ msgid ""
 "          technology solutions.\n"
 "          "
 msgstr ""
+"\n"
+"          نفخر بالعلاقات القوية التي بنيناها مع عملائنا.\n"
+"          قصص نجاحهم تلهمنا للاستمرار في تقديم\n"
+"          حلول تقنية استثنائية.\n"
+"          "
 
-#: .\main\templates\main\clients.html:52
 msgid "TechCorp Global"
-msgstr ""
+msgstr "TechCorp Global"
 
-#: .\main\templates\main\clients.html:54
 msgid "Enterprise Software Solutions"
-msgstr ""
+msgstr "حلول برمجيات المؤسسات"
 
-#: .\main\templates\main\clients.html:59
 #, python-format
 msgid ""
 "\n"
@@ -567,20 +495,20 @@ msgid ""
 "              solutions that boosted our efficiency by 40%%.\"\n"
 "              "
 msgstr ""
+"\n"
+"              \"حوّلت AWFERLK أنظمتنا القديمة إلى حلول حديثة قابلة للتوسع\n"
+"              مما رفع كفاءتنا بنسبة 40%%.\"\n"
+"              "
 
-#: .\main\templates\main\clients.html:67
 msgid "Technology"
-msgstr ""
+msgstr "التقنية"
 
-#: .\main\templates\main\clients.html:79
 msgid "RetailPlus"
-msgstr ""
+msgstr "RetailPlus"
 
-#: .\main\templates\main\clients.html:80
 msgid "E-commerce Platform"
-msgstr ""
+msgstr "منصة تجارة إلكترونية"
 
-#: .\main\templates\main\clients.html:84
 #, python-format
 msgid ""
 "\n"
@@ -589,20 +517,20 @@ msgid ""
 "              transactions during peak seasons.\"\n"
 "              "
 msgstr ""
+"\n"
+"              \"حلّ التجارة الإلكترونية المخصص الذي قدموه ساعدنا على التوسع للتعامل مع\n"
+"              معاملات أكثر بنسبة 500%% خلال مواسم الذروة.\"\n"
+"              "
 
-#: .\main\templates\main\clients.html:92
 msgid "Retail"
-msgstr ""
+msgstr "التجزئة"
 
-#: .\main\templates\main\clients.html:104
 msgid "MediCare Solutions"
-msgstr ""
+msgstr "MediCare Solutions"
 
-#: .\main\templates\main\clients.html:105
 msgid "Healthcare Technology"
-msgstr ""
+msgstr "تقنية الرعاية الصحية"
 
-#: .\main\templates\main\clients.html:109
 msgid ""
 "\n"
 "              \"The secure patient management system they developed "
@@ -610,20 +538,20 @@ msgid ""
 "              how we handle medical records.\"\n"
 "              "
 msgstr ""
+"\n"
+"              \"نظام إدارة المرضى الآمن الذي طوروه أحدث نقلة نوعية\n"
+"              في طريقة تعاملنا مع السجلات الطبية.\"\n"
+"              "
 
-#: .\main\templates\main\clients.html:117
 msgid "Healthcare"
-msgstr ""
+msgstr "الرعاية الصحية"
 
-#: .\main\templates\main\clients.html:129
 msgid "EduTech Pro"
-msgstr ""
+msgstr "EduTech Pro"
 
-#: .\main\templates\main\clients.html:130
 msgid "Educational Platform"
-msgstr ""
+msgstr "منصة تعليمية"
 
-#: .\main\templates\main\clients.html:134
 #, python-format
 msgid ""
 "\n"
@@ -632,22 +560,20 @@ msgid ""
 "              99.9%% uptime.\"\n"
 "              "
 msgstr ""
+"\n"
+"              \"نظام إدارة التعلم لديهم يدعم أكثر من 50,000 طالب مع\n"
+"              معدل جاهزية 99.9%%.\"\n"
+"              "
 
-#: .\main\templates\main\clients.html:142
-#, fuzzy
-#| msgid "Syndication"
 msgid "Education"
-msgstr "التوزيع (Syndication)"
+msgstr "التعليم"
 
-#: .\main\templates\main\clients.html:154
 msgid "FinSecure"
-msgstr ""
+msgstr "FinSecure"
 
-#: .\main\templates\main\clients.html:155
 msgid "Financial Services"
-msgstr ""
+msgstr "الخدمات المالية"
 
-#: .\main\templates\main\clients.html:159
 msgid ""
 "\n"
 "              \"The security and compliance features in their financial "
@@ -655,22 +581,20 @@ msgid ""
 "              industry-leading.\"\n"
 "              "
 msgstr ""
+"\n"
+"              \"ميزات الأمان والامتثال في منصتهم المالية\n"
+"              تُعد من الأفضل في المجال.\"\n"
+"              "
 
-#: .\main\templates\main\clients.html:167
 msgid "Finance"
-msgstr ""
+msgstr "التمويل"
 
-#: .\main\templates\main\clients.html:179
-#, fuzzy
-#| msgid "Login"
 msgid "LogiChain"
-msgstr "تسجيل الدخول"
+msgstr "LogiChain"
 
-#: .\main\templates\main\clients.html:180
 msgid "Supply Chain Management"
-msgstr ""
+msgstr "إدارة سلسلة الإمداد"
 
-#: .\main\templates\main\clients.html:184
 #, python-format
 msgid ""
 "\n"
@@ -679,34 +603,29 @@ msgid ""
 "              30%% while cutting costs.\"\n"
 "              "
 msgstr ""
+"\n"
+"              \"برنامج تحسين الخدمات اللوجستية لديهم خفّض أوقات التوصيل لدينا بنسبة\n"
+"              30%% مع تقليل التكاليف.\"\n"
+"              "
 
-#: .\main\templates\main\clients.html:192
 msgid "Logistics"
-msgstr ""
+msgstr "الخدمات اللوجستية"
 
-#: .\main\templates\main\clients.html:212
 msgid "Client Retention Rate"
-msgstr ""
+msgstr "معدل الاحتفاظ بالعملاء"
 
-#: .\main\templates\main\clients.html:216
 msgid "Satisfied Clients"
-msgstr ""
+msgstr "عملاء راضون"
 
-#: .\main\templates\main\clients.html:220
-#, fuzzy
-#| msgid "Contact Support"
 msgid "Client Support"
-msgstr "الاتصال بالدعم"
+msgstr "دعم العملاء"
 
-#: .\main\templates\main\clients.html:224
 msgid "Client Satisfaction"
-msgstr ""
+msgstr "رضا العملاء"
 
-#: .\main\templates\main\clients.html:236
 msgid "Ready to Join Our Success Stories?"
-msgstr ""
+msgstr "جاهز لتكون جزءًا من قصص نجاحنا؟"
 
-#: .\main\templates\main\clients.html:240
 msgid ""
 "\n"
 "          Let's discuss how we can help your business achieve its "
@@ -714,1775 +633,994 @@ msgid ""
 "          goals.\n"
 "          "
 msgstr ""
+"\n"
+"          دعنا نناقش كيف يمكننا مساعدة عملك على تحقيق أهدافه التقنية.\n"
+"          "
 
-#: .\main\templates\main\clients.html:251
 msgid "Start Your Project"
-msgstr ""
+msgstr "ابدأ مشروعك"
 
-#: .\main\templates\main\clients.html:258
-#, fuzzy
-#| msgid "View All Products"
 msgid "View Our Products"
-msgstr "عرض كل المنتجات"
+msgstr "عرض منتجاتنا"
 
-#: .\main\templates\main\contact.html:3
-#, fuzzy
-#| msgid "Page Not Found - AWFERLK Solutions"
-msgid "Contact Us - AWFERLK Solutions"
-msgstr "الصفحة غير موجودة - اوفرلك للحلول التقنية"
+msgid "Contact Us - Altaj Aldaim"
+msgstr "تواصل معنا - التاج الدائم"
 
-#: .\main\templates\main\contact.html:11
 msgid "Get In Touch"
-msgstr ""
+msgstr "تواصل معنا"
 
-#: .\main\templates\main\contact.html:14
 msgid ""
 "\n"
-"          We'd love to hear from you. Send us a message and we'll respond as "
-"soon as possible.\n"
+"            Have a question about engine oils, viscosity grades, or the "
+"right fluid for your vehicle?\n"
+"            Send us a message and our team will respond as soon as "
+"possible.\n"
+"            "
+msgstr ""
+"\n"
+"            لديك سؤال حول زيوت المحركات أو درجات اللزوجة أو السائل المناسب لمركبتك؟\n"
+"            أرسل لنا رسالة وسيقوم فريقنا بالرد في أقرب وقت ممكن.\n"
+"            "
+
+msgid "Send Us a Message"
+msgstr "أرسل لنا رسالة"
+
+msgid "Email Address"
+msgstr "البريد الإلكتروني"
+
+msgid "your.email@example.com"
+msgstr "your.email@example.com"
+
+msgid "Your Message"
+msgstr "رسالتك"
+
+msgid "Tell us your car model, engine type, and what you need help with..."
+msgstr "اخبرنا بموديل سيارتك، نوع المحرك، وما الذي تحتاج المساعدة فيه..."
+
+msgid ""
+"\n"
+"                  Tip: Include your vehicle model/year and the oil grade you "
+"currently use (e.g., 5W-30 or 10W-40) for faster recommendations.\n"
+"                  "
+msgstr ""
+"\n"
+"                  نصيحة: اذكر موديل/سنة مركبتك ودرجة الزيت التي تستخدمها حاليًا "
+"(مثل 5W-30 أو 10W-40) للحصول على توصيات أسرع.\n"
+"                  "
+
+msgid "Send Message"
+msgstr "إرسال الرسالة"
+
+msgid "Contact Information"
+msgstr "معلومات التواصل"
+
+msgid "Main Location"
+msgstr "الموقع الرئيسي"
+
+msgid "Loading address from primary branch..."
+msgstr "جارٍ تحميل العنوان من الفرع الرئيسي..."
+
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+msgid "Loading phone number..."
+msgstr "جارٍ تحميل رقم الهاتف..."
+
+msgid "Loading email address..."
+msgstr "جارٍ تحميل البريد الإلكتروني..."
+
+msgid "Business Hours"
+msgstr "ساعات العمل"
+
+msgid "Loading business hours..."
+msgstr "جارٍ تحميل ساعات العمل..."
+
+msgid "Follow Us"
+msgstr "تابعنا"
+
+msgid "Facebook"
+msgstr "فيسبوك"
+
+msgid "Twitter"
+msgstr "تويتر"
+
+msgid "LinkedIn"
+msgstr "لينكدإن"
+
+msgid "Instagram"
+msgstr "إنستغرام"
+
+msgid ""
+"\n"
+"                For workshops and fleet customers: mention monthly "
+"quantities and the oil grades you need, and we will reply with availability "
+"and options.\n"
+"                "
+msgstr ""
+"\n"
+"                لورش الصيانة وعملاء الأساطيل: اذكر الكميات الشهرية ودرجات الزيت التي تحتاجها،"
+" وسنرد عليك بالتوفر والخيارات.\n"
+"                "
+
+msgid "Our Branches"
+msgstr "فروعنا"
+
+msgid ""
+"\n"
+"          Visit any of our locations for oils, fluids, and service "
+"guidance.\n"
 "          "
 msgstr ""
+"\n"
+"          قم بزيارة أيٍ من مواقعنا للحصول على الزيوت والسوائل وإرشادات الخدمة.\n"
+"          "
 
-#: .\main\templates\main\contact.html:33
-msgid "Send Us a Message"
-msgstr ""
-
-#: .\main\templates\main\contact.html:50
-#: .\main\templates\main\contact.html:146
-#: .\main\templates\main\dashboard.html:1382
-#: .\main\templates\main\dashboard.html:1383
-#: .\main\templates\main\dashboard.html:1534
-#: .\main\templates\main\dashboard.html:1535
-#: .\main\templates\main\dashboard8.html:1374
-#: .\main\templates\main\dashboard8.html:1376
-#: .\main\templates\main\dashboard8.html:1511
-#: .\main\templates\main\dashboard8.html:1513
-msgid "Email Address"
-msgstr ""
-
-#: .\main\templates\main\contact.html:61
-msgid "your.email@example.com"
-msgstr ""
-
-#: .\main\templates\main\contact.html:69
-msgid "Your Message"
-msgstr ""
-
-#: .\main\templates\main\contact.html:82
-msgid "Tell us how we can help you..."
-msgstr ""
-
-#: .\main\templates\main\contact.html:95
-msgid "Send Message"
-msgstr ""
-
-#: .\main\templates\main\contact.html:107
-#, fuzzy
-#| msgid "Contact Support"
-msgid "Contact Information"
-msgstr "الاتصال بالدعم"
-
-#: .\main\templates\main\contact.html:118
-#, fuzzy
-#| msgid "Our Partners"
-msgid "Our Headquarters"
-msgstr "شركاؤنا"
-
-#: .\main\templates\main\contact.html:120
-msgid "Loading address from primary branch..."
-msgstr ""
-
-#: .\main\templates\main\contact.html:132
-#: .\main\templates\main\dashboard.html:1375
-#: .\main\templates\main\dashboard.html:1376
-#: .\main\templates\main\dashboard.html:1527
-#: .\main\templates\main\dashboard.html:1528
-#: .\main\templates\main\dashboard8.html:1362
-#: .\main\templates\main\dashboard8.html:1364
-#: .\main\templates\main\dashboard8.html:1499
-#: .\main\templates\main\dashboard8.html:1501
-#: .\main\templates\main\products.html:127
-msgid "Phone Number"
-msgstr ""
-
-#: .\main\templates\main\contact.html:134
-msgid "Loading phone number..."
-msgstr ""
-
-#: .\main\templates\main\contact.html:148
-msgid "Loading email address..."
-msgstr ""
-
-#: .\main\templates\main\contact.html:160
-msgid "Business Hours"
-msgstr ""
-
-#: .\main\templates\main\contact.html:162
-msgid "Loading business hours..."
-msgstr ""
-
-#: .\main\templates\main\contact.html:171
-msgid "Follow Us"
-msgstr ""
-
-#: .\main\templates\main\contact.html:214
-#, fuzzy
-#| msgid "Our Partners"
-msgid "Our Branches"
-msgstr "شركاؤنا"
-
-#: .\main\templates\main\contact.html:216
-msgid "Visit us at any of our locations worldwide"
-msgstr ""
-
-#: .\main\templates\main\contact.html:224
 msgid "Loading branches..."
-msgstr ""
+msgstr "جارٍ تحميل الفروع..."
 
-#: .\main\templates\main\contact.html:246
-#: .\main\templates\main\dashboard.html:115
-#: .\main\templates\main\dashboard.html:217
-#: .\main\templates\main\dashboard.html:294
-#: .\main\templates\main\dashboard.html:719
-#: .\main\templates\main\dashboard.html:2473
-#: .\main\templates\main\dashboard.html:2516
-#: .\main\templates\main\dashboard8.html:115
-#: .\main\templates\main\dashboard8.html:211
-#: .\main\templates\main\dashboard8.html:695
-#, fuzzy
-#| msgid "Name A-Z"
 msgid "Name"
-msgstr "الاسم (أ-ي)"
+msgstr "الاسم"
 
-#: .\main\templates\main\contact.html:250
-#: .\main\templates\main\dashboard.html:720
-#: .\main\templates\main\dashboard.html:1389
-#: .\main\templates\main\dashboard.html:1390
-#: .\main\templates\main\dashboard.html:1541
-#: .\main\templates\main\dashboard.html:1542
-#: .\main\templates\main\dashboard8.html:547
-#: .\main\templates\main\dashboard8.html:696
-#: .\main\templates\main\dashboard8.html:1385
-#: .\main\templates\main\dashboard8.html:1389
-#: .\main\templates\main\dashboard8.html:1522
-#: .\main\templates\main\dashboard8.html:1526
 msgid "Address"
-msgstr ""
+msgstr "العنوان"
 
-#: .\main\templates\main\contact.html:254
-#: .\main\templates\main\dashboard.html:296
-#: .\main\templates\main\dashboard8.html:213
 msgid "Phone"
-msgstr ""
+msgstr "الهاتف"
 
-#: .\main\templates\main\contact.html:258
 msgid "Hours"
-msgstr ""
+msgstr "الساعات"
 
-#: .\main\templates\main\contact.html:262
-#: .\main\templates\main\dashboard.html:637
-#: .\main\templates\main\dashboard8.html:613
 msgid "Email"
-msgstr ""
+msgstr "البريد الإلكتروني"
 
-#: .\main\templates\main\contact.html:266
-#: .\main\templates\main\dashboard.html:721
-#: .\main\templates\main\dashboard8.html:697
 msgid "Coordinates"
-msgstr ""
+msgstr "الإحداثيات"
 
-#: .\main\templates\main\contact.html:299
-#, fuzzy
-#| msgid "not set"
 msgid "Address not set"
-msgstr "غير محدد"
+msgstr "العنوان غير محدد"
 
-#: .\main\templates\main\contact.html:305
 msgid "Phone number not set"
-msgstr ""
+msgstr "رقم الهاتف غير محدد"
 
-#: .\main\templates\main\contact.html:311
-#, fuzzy
-#| msgid "not set"
 msgid "Email not set"
-msgstr "غير محدد"
+msgstr "البريد الإلكتروني غير محدد"
 
-#: .\main\templates\main\contact.html:334
 msgid "Business hours not set"
-msgstr ""
+msgstr "ساعات العمل غير محددة"
 
-#: .\main\templates\main\contact.html:378
-#, fuzzy
-#| msgid "No brands available."
 msgid "No branches available"
-msgstr "لا توجد علامات تجارية متاحة."
+msgstr "لا توجد فروع متاحة"
 
-#: .\main\templates\main\contact.html:381
 msgid "Check back later for branch information."
-msgstr ""
+msgstr "عد لاحقًا للاطلاع على معلومات الفروع."
 
-#: .\main\templates\main\contact.html:449
+msgid "Branch"
+msgstr "الفرع"
+
 msgid "No valid branch locations"
-msgstr ""
+msgstr "لا توجد مواقع فروع صالحة"
 
-#: .\main\templates\main\contact.html:452
 msgid "Please check branch coordinate data."
-msgstr ""
+msgstr "يرجى التحقق من بيانات إحداثيات الفروع."
 
-#: .\main\templates\main\contact.html:487
 msgid "Details"
-msgstr ""
+msgstr "التفاصيل"
 
-#: .\main\templates\main\contact.html:505
 msgid "Error loading branches"
-msgstr ""
+msgstr "خطأ في تحميل الفروع"
 
-#: .\main\templates\main\contact.html:508
 msgid "Please try refreshing the page."
-msgstr ""
+msgstr "يرجى محاولة تحديث الصفحة."
 
-#: .\main\templates\main\contact.html:676
 msgid "Sending..."
-msgstr ""
+msgstr "جارٍ الإرسال..."
 
-#: .\main\templates\main\dashboard.html:3
-#: .\main\templates\main\dashboard8.html:3
-#, fuzzy
-#| msgid "Page Not Found - AWFERLK Solutions"
 msgid "Admin Dashboard - AWFERLK Solutions"
-msgstr "الصفحة غير موجودة - اوفرلك للحلول التقنية"
+msgstr "لوحة تحكم المدير - حلول AWFERLK"
 
-#: .\main\templates\main\dashboard.html:13
-#: .\main\templates\main\dashboard8.html:13
-#, fuzzy
-#| msgid "Dashboard"
 msgid "Admin Dashboard"
-msgstr "لوحة التحكم"
+msgstr "لوحة تحكم المدير"
 
-#: .\main\templates\main\dashboard.html:16
-#: .\main\templates\main\dashboard8.html:16
 msgid "Manage products, inquiries, messages, and branches"
-msgstr ""
+msgstr "إدارة المنتجات والاستفسارات والرسائل والفروع"
 
-#: .\main\templates\main\dashboard.html:27
-#: .\main\templates\main\dashboard.html:439
-#: .\main\templates\main\dashboard.html:1103
-#: .\main\templates\main\dashboard8.html:27
-#: .\main\templates\main\dashboard8.html:347
-#: .\main\templates\main\dashboard8.html:1079
-#, fuzzy
-#| msgid "Products"
 msgid "Add Product"
-msgstr "المنتجات"
+msgstr "إضافة منتج"
 
-#: .\main\templates\main\dashboard.html:35
-#: .\main\templates\main\dashboard.html:711
-#: .\main\templates\main\dashboard.html:1488
-#: .\main\templates\main\dashboard8.html:35
-#: .\main\templates\main\dashboard8.html:687
-#: .\main\templates\main\dashboard8.html:1446
 msgid "Add Branch"
-msgstr ""
+msgstr "إضافة فرع"
 
-#: .\main\templates\main\dashboard.html:51
-#: .\main\templates\main\dashboard8.html:51
-#, fuzzy
-#| msgid "Products"
 msgid "Total Products"
-msgstr "المنتجات"
+msgstr "إجمالي المنتجات"
 
-#: .\main\templates\main\dashboard.html:62
-#: .\main\templates\main\dashboard8.html:62
-#: .\main\templates\main\dashboard8.html:536
-#, fuzzy
-#| msgid "Products & Services"
 msgid "Product Inquiries"
-msgstr "المنتجات والخدمات"
+msgstr "استفسارات المنتجات"
 
-#: .\main\templates\main\dashboard.html:73
-#: .\main\templates\main\dashboard.html:629
-#: .\main\templates\main\dashboard8.html:73
-#: .\main\templates\main\dashboard8.html:605
-#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:15
 msgid "Messages"
-msgstr ""
+msgstr "الرسائل"
 
-#: .\main\templates\main\dashboard.html:84
-#: .\main\templates\main\dashboard.html:703
-#: .\main\templates\main\dashboard8.html:84
-#: .\main\templates\main\dashboard8.html:679
-#, fuzzy
-#| msgid "Brands"
 msgid "Branches"
-msgstr "العلامات التجارية"
+msgstr "الفروع"
 
-#: .\main\templates\main\dashboard.html:97
-#: .\main\templates\main\dashboard8.html:97
-#: .\main\templates\main\shop.html:1046 .\main\templates\main\shop.html:1147
-#, fuzzy
-#| msgid "Uncategorized"
 msgid "Categories"
-msgstr "غير مصنف"
+msgstr "التصنيفات"
 
-#: .\main\templates\main\dashboard.html:105
-#: .\main\templates\main\dashboard.html:1657
-#: .\main\templates\main\dashboard.html:1727
-#: .\main\templates\main\dashboard8.html:105
-#: .\main\templates\main\dashboard8.html:1603
-#: .\main\templates\main\dashboard8.html:1673
-#, fuzzy
-#| msgid "Shop By Category"
 msgid "Add Category"
-msgstr "تسوّق حسب التصنيف"
+msgstr "إضافة تصنيف"
 
-#: .\main\templates\main\dashboard.html:114
-#: .\main\templates\main\dashboard.html:216
-#: .\main\templates\main\dashboard.html:448
-#: .\main\templates\main\dashboard.html:558
-#: .\main\templates\main\dashboard.html:2484
-#: .\main\templates\main\dashboard.html:2527
-#: .\main\templates\main\dashboard8.html:114
-#: .\main\templates\main\dashboard8.html:356
-#: .\main\templates\main\dashboard8.html:466
-#: .\venv\Lib\site-packages\django\db\models\fields\files.py:393
 msgid "Image"
-msgstr ""
+msgstr "الصورة"
 
-#: .\main\templates\main\dashboard.html:116
-#: .\main\templates\main\dashboard.html:218
-#: .\main\templates\main\dashboard.html:961
-#: .\main\templates\main\dashboard.html:966
-#: .\main\templates\main\dashboard.html:1193
-#: .\main\templates\main\dashboard.html:1198
-#: .\main\templates\main\dashboard.html:1689
-#: .\main\templates\main\dashboard.html:1693
-#: .\main\templates\main\dashboard.html:1781
-#: .\main\templates\main\dashboard.html:1785
-#: .\main\templates\main\dashboard.html:2479
-#: .\main\templates\main\dashboard.html:2522
-#: .\main\templates\main\dashboard8.html:116
-#: .\main\templates\main\dashboard8.html:937
-#: .\main\templates\main\dashboard8.html:942
-#: .\main\templates\main\dashboard8.html:1169
-#: .\main\templates\main\dashboard8.html:1174
-#: .\main\templates\main\dashboard8.html:1635
-#: .\main\templates\main\dashboard8.html:1639
-#: .\main\templates\main\dashboard8.html:1727
-#: .\main\templates\main\dashboard8.html:1731
 msgid "Description"
-msgstr ""
+msgstr "الوصف"
 
-#: .\main\templates\main\dashboard.html:117
-#: .\main\templates\main\dashboard.html:219
-#: .\main\templates\main\dashboard.html:452
-#: .\main\templates\main\dashboard.html:561
-#: .\main\templates\main\dashboard.html:640
-#: .\main\templates\main\dashboard.html:723
-#: .\main\templates\main\dashboard.html:825
-#: .\main\templates\main\dashboard8.html:117
-#: .\main\templates\main\dashboard8.html:360
-#: .\main\templates\main\dashboard8.html:469
-#: .\main\templates\main\dashboard8.html:616
-#: .\main\templates\main\dashboard8.html:699
-#: .\main\templates\main\dashboard8.html:801
 msgid "Actions"
-msgstr ""
+msgstr "الإجراءات"
 
-#: .\main\templates\main\dashboard.html:155
-#: .\main\templates\main\dashboard.html:243
-#: .\main\templates\main\dashboard.html:503
-#: .\main\templates\main\dashboard.html:769
-#: .\main\templates\main\dashboard.html:846
-#: .\main\templates\main\dashboard8.html:155
-#: .\main\templates\main\dashboard8.html:411
-#: .\main\templates\main\dashboard8.html:745
-#: .\main\templates\main\dashboard8.html:822
 msgid "Edit"
-msgstr ""
+msgstr "تعديل"
 
-#: .\main\templates\main\dashboard.html:170
-#: .\main\templates\main\dashboard.html:255
-#: .\main\templates\main\dashboard.html:511
-#: .\main\templates\main\dashboard.html:776
-#: .\main\templates\main\dashboard.html:855
-#: .\main\templates\main\dashboard8.html:170
-#: .\main\templates\main\dashboard8.html:419
-#: .\main\templates\main\dashboard8.html:752
-#: .\main\templates\main\dashboard8.html:831
-#: .\venv\Lib\site-packages\django\forms\formsets.py:499
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
-#: .\main\templates\main\dashboard.html:183
-#: .\main\templates\main\dashboard8.html:183
 msgid "No categories added yet"
-msgstr ""
+msgstr "لم يتم إضافة أي تصنيفات بعد"
 
-#: .\main\templates\main\dashboard.html:207
-#: .\main\templates\main\dashboard.html:2465
-#: .\main\templates\main\dashboard.html:2494
-#, fuzzy
-#| msgid "Brands"
 msgid "Add Brand"
-msgstr "العلامات التجارية"
+msgstr "إضافة علامة تجارية"
 
-#: .\main\templates\main\dashboard.html:266
-#, fuzzy
-#| msgid "No brands available."
 msgid "No brands added yet"
-msgstr "لا توجد علامات تجارية متاحة."
+msgstr "لم يتم إضافة أي علامات تجارية بعد"
 
-#: .\main\templates\main\dashboard.html:284
-#: .\main\templates\main\dashboard8.html:201
 msgid "Invoices"
-msgstr ""
+msgstr "الفواتير"
 
-#: .\main\templates\main\dashboard.html:293
-#: .\main\templates\main\dashboard8.html:210
 msgid "Invoice ID"
-msgstr ""
+msgstr "رقم الفاتورة"
 
-#: .\main\templates\main\dashboard.html:295
-#: .\main\templates\main\dashboard8.html:212
 msgid "City / Address"
-msgstr ""
+msgstr "المدينة / العنوان"
 
-#: .\main\templates\main\dashboard.html:297
-#: .\main\templates\main\dashboard.html:351
-#: .\main\templates\main\dashboard8.html:214
-#: .\main\templates\main\dashboard8.html:262
 msgid "Subtotal"
-msgstr ""
+msgstr "المجموع الفرعي"
 
-#: .\main\templates\main\dashboard.html:298
-#: .\main\templates\main\dashboard.html:824
-#: .\main\templates\main\dashboard.html:1877
-#: .\main\templates\main\dashboard.html:1948
-#: .\main\templates\main\dashboard8.html:215
-#: .\main\templates\main\dashboard8.html:800
-#: .\main\templates\main\dashboard8.html:1823
-#: .\main\templates\main\dashboard8.html:1894
 msgid "Delivery Fee"
-msgstr ""
+msgstr "رسوم التوصيل"
 
-#: .\main\templates\main\dashboard.html:299
-#: .\main\templates\main\dashboard8.html:216
 msgid "Total"
-msgstr ""
+msgstr "الإجمالي"
 
-#: .\main\templates\main\dashboard.html:300
-#: .\main\templates\main\dashboard8.html:217
 msgid "Items"
-msgstr ""
+msgstr "العناصر"
 
-#: .\main\templates\main\dashboard.html:328
-#: .\main\templates\main\dashboard8.html:245
 msgid "View Items"
-msgstr ""
+msgstr "عرض العناصر"
 
-#: .\main\templates\main\dashboard.html:334
 msgid "Print"
-msgstr ""
+msgstr "طباعة"
 
-#: .\main\templates\main\dashboard.html:345
-#: .\main\templates\main\dashboard.html:447
-#: .\main\templates\main\dashboard8.html:256
-#: .\main\templates\main\dashboard8.html:355
-#: .\main\templates\main\dashboard8.html:545
-#, fuzzy
-#| msgid "Products"
 msgid "Product"
-msgstr "المنتجات"
+msgstr "المنتج"
 
-#: .\main\templates\main\dashboard.html:346
-#: .\main\templates\main\dashboard8.html:257
-#, fuzzy
-#| msgid "Products"
 msgid "Product ID"
-msgstr "المنتجات"
+msgstr "رقم المنتج"
 
-#: .\main\templates\main\dashboard.html:347
-#: .\main\templates\main\dashboard8.html:258
-#: .\main\templates\main\dashboard8.html:546
-#: .\main\templates\main\products.html:85
 msgid "Quantity"
-msgstr ""
+msgstr "الكمية"
 
-#: .\main\templates\main\dashboard.html:348
-#: .\main\templates\main\dashboard8.html:259
 msgid "Price (Original)"
-msgstr ""
+msgstr "السعر (الأصلي)"
 
-#: .\main\templates\main\dashboard.html:349
-#: .\main\templates\main\dashboard.html:451
-#: .\main\templates\main\dashboard.html:949
-#: .\main\templates\main\dashboard.html:1181
-#: .\main\templates\main\dashboard8.html:260
-#: .\main\templates\main\dashboard8.html:359
-#: .\main\templates\main\dashboard8.html:925
-#: .\main\templates\main\dashboard8.html:1157
 #, python-format
 msgid "Discount (%%)"
-msgstr ""
+msgstr "الخصم (%%)"
 
-#: .\main\templates\main\dashboard.html:350
-#: .\main\templates\main\dashboard8.html:261
 msgid "Price After Discount"
-msgstr ""
+msgstr "السعر بعد الخصم"
 
-#: .\main\templates\main\dashboard.html:387
-#: .\main\templates\main\dashboard8.html:295
 msgid "No items in this invoice."
-msgstr ""
+msgstr "لا توجد عناصر في هذه الفاتورة."
 
-#: .\main\templates\main\dashboard.html:394
-#: .\main\templates\main\dashboard8.html:302
 msgid "Delivery price"
-msgstr ""
+msgstr "سعر التوصيل"
 
-#: .\main\templates\main\dashboard.html:413
-#: .\main\templates\main\dashboard8.html:321
 msgid "No invoices created yet"
-msgstr ""
+msgstr "لم يتم إنشاء أي فواتير بعد"
 
-#: .\main\templates\main\dashboard.html:449
-#: .\main\templates\main\dashboard8.html:357
-#: .\main\templates\main\products.html:66
-#, fuzzy
-#| msgid "Availability"
-msgid "Available"
-msgstr "التوفر"
-
-#: .\main\templates\main\dashboard.html:450
-#: .\main\templates\main\dashboard.html:927
-#: .\main\templates\main\dashboard.html:1159
-#: .\main\templates\main\dashboard8.html:358
-#: .\main\templates\main\dashboard8.html:903
-#: .\main\templates\main\dashboard8.html:1135
-#, fuzzy
-#| msgid "Price Range"
-msgid "Price"
-msgstr "نطاق السعر"
-
-#: .\main\templates\main\dashboard.html:524
-#: .\main\templates\main\dashboard8.html:432
-#, fuzzy
-#| msgid "No brands available."
-msgid "No products available"
-msgstr "لا توجد علامات تجارية متاحة."
-
-#: .\main\templates\main\dashboard.html:540
-#: .\main\templates\main\dashboard8.html:448
-msgid "Banners"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:548
-#: .\main\templates\main\dashboard8.html:456
-msgid "Add Banner"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:557
-#: .\main\templates\main\dashboard8.html:465
-msgid "Title"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:559
-#: .\main\templates\main\dashboard8.html:467
-#: .\venv\Lib\site-packages\django\forms\formsets.py:484
-#: .\venv\Lib\site-packages\django\forms\formsets.py:491
-msgid "Order"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:560
-#: .\main\templates\main\dashboard8.html:468
-msgid "Active"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:612
-#: .\main\templates\main\dashboard8.html:520
-#, fuzzy
-#| msgid "No brands available."
-msgid "No banners available"
-msgstr "لا توجد علامات تجارية متاحة."
-
-#: .\main\templates\main\dashboard.html:638
-#: .\main\templates\main\dashboard8.html:614
-msgid "Message"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:639
-#: .\main\templates\main\dashboard8.html:548
-#: .\main\templates\main\dashboard8.html:615
-msgid "Date"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:672
-#: .\main\templates\main\dashboard8.html:648
-msgid "View"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:686
-#: .\main\templates\main\dashboard8.html:662
-msgid "No messages yet"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:722
-#: .\main\templates\main\dashboard8.html:698
-msgid "Primary"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:749
-#: .\main\templates\main\dashboard.html:754
-#: .\main\templates\main\dashboard8.html:725
-#: .\main\templates\main\dashboard8.html:730
-msgid "Not Set"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:760
-#: .\main\templates\main\dashboard8.html:736
-#: .\venv\Lib\site-packages\django\forms\widgets.py:771
-msgid "Yes"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:762
-#: .\main\templates\main\dashboard8.html:738
-#: .\venv\Lib\site-packages\django\forms\widgets.py:772
-msgid "No"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:789
-#: .\main\templates\main\dashboard8.html:765
-msgid "No branches added yet"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:806
-#: .\main\templates\main\dashboard8.html:782
-msgid "Cities"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:814
-#: .\main\templates\main\dashboard.html:1897
-#: .\main\templates\main\dashboard8.html:790
-#: .\main\templates\main\dashboard8.html:1843
-#, fuzzy
-#| msgid "Add to Cart"
-msgid "Add City"
-msgstr "أضف إلى السلة"
-
-#: .\main\templates\main\dashboard.html:823
-#: .\main\templates\main\dashboard.html:1864
-#: .\main\templates\main\dashboard.html:1867
-#: .\main\templates\main\dashboard.html:1935
-#: .\main\templates\main\dashboard.html:1938
-#: .\main\templates\main\dashboard8.html:799
-#: .\main\templates\main\dashboard8.html:1810
-#: .\main\templates\main\dashboard8.html:1813
-#: .\main\templates\main\dashboard8.html:1881
-#: .\main\templates\main\dashboard8.html:1884
-msgid "City Name"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:867
-#: .\main\templates\main\dashboard8.html:843
-msgid "No cities added yet"
-msgstr ""
-
-#: .\main\templates\main\dashboard.html:891
-#: .\main\templates\main\dashboard8.html:867
-#, fuzzy
-#| msgid "View All Products"
-msgid "Add New Product"
-msgstr "عرض كل المنتجات"
-
-#: .\main\templates\main\dashboard.html:912
-#: .\main\templates\main\dashboard.html:915
-#: .\main\templates\main\dashboard.html:1144
-#: .\main\templates\main\dashboard.html:1147
-#: .\main\templates\main\dashboard8.html:888
-#: .\main\templates\main\dashboard8.html:891
-#: .\main\templates\main\dashboard8.html:1120
-#: .\main\templates\main\dashboard8.html:1123
-#, fuzzy
-#| msgid "Products"
-msgid "Product Name"
+msgid "Products"
 msgstr "المنتجات"
 
-#: .\main\templates\main\dashboard.html:931
-#: .\main\templates\main\dashboard.html:1163
-msgid "Price (د.ل)"
-msgstr ""
+msgid "Available"
+msgstr "متاح"
 
-#: .\main\templates\main\dashboard.html:943
-#: .\main\templates\main\dashboard.html:1175
-#: .\main\templates\main\dashboard8.html:919
-#: .\main\templates\main\dashboard8.html:1151
+msgid "Price"
+msgstr "السعر"
+
+msgid "No products available"
+msgstr "لا توجد منتجات متاحة"
+
+msgid "Banners"
+msgstr "اللافتات"
+
+msgid "Add Banner"
+msgstr "إضافة لافتة"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Order"
+msgstr "الترتيب"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "No banners available"
+msgstr "لا توجد لافتات متاحة"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "No messages yet"
+msgstr "لا توجد رسائل بعد"
+
+msgid "Primary"
+msgstr "رئيسي"
+
+msgid "Not Set"
+msgstr "غير محدد"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "No branches added yet"
+msgstr "لم يتم إضافة أي فروع بعد"
+
+msgid "Cities"
+msgstr "المدن"
+
+msgid "Add City"
+msgstr "إضافة مدينة"
+
+msgid "City Name"
+msgstr "اسم المدينة"
+
+msgid "No cities added yet"
+msgstr "لم يتم إضافة أي مدن بعد"
+
+msgid "Add New Product"
+msgstr "إضافة منتج جديد"
+
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+msgid "Price (د.ل)"
+msgstr "السعر (د.ل)"
+
 #, python-format
 msgid "Discount %%"
-msgstr ""
+msgstr "نسبة الخصم %%"
 
-#: .\main\templates\main\dashboard.html:979
-#: .\main\templates\main\dashboard.html:983
-#: .\main\templates\main\dashboard.html:1211
-#: .\main\templates\main\dashboard.html:1215
-#: .\main\templates\main\dashboard8.html:955
-#: .\main\templates\main\dashboard8.html:959
-#: .\main\templates\main\dashboard8.html:1187
-#: .\main\templates\main\dashboard8.html:1191
 msgid "Quantity Available"
-msgstr ""
+msgstr "الكمية المتاحة"
 
-#: .\main\templates\main\dashboard.html:997
-#: .\main\templates\main\dashboard.html:1229
-#: .\main\templates\main\dashboard8.html:973
-#: .\main\templates\main\dashboard8.html:1205
-#, fuzzy
-#| msgid "Shop By Category"
 msgid "Select Category"
-msgstr "تسوّق حسب التصنيف"
+msgstr "اختر التصنيف"
 
-#: .\main\templates\main\dashboard.html:1002
-#: .\main\templates\main\dashboard.html:1234
-#: .\main\templates\main\dashboard8.html:978
-#: .\main\templates\main\dashboard8.html:1210
-#, fuzzy
-#| msgid "Shop By Category"
 msgid "Category"
-msgstr "تسوّق حسب التصنيف"
+msgstr "التصنيف"
 
-#: .\main\templates\main\dashboard.html:1017
-#: .\main\templates\main\dashboard.html:1248
-#: .\main\templates\main\dashboard8.html:993
-#: .\main\templates\main\dashboard8.html:1224
 msgid "Show Price"
-msgstr ""
+msgstr "إظهار السعر"
 
-#: .\main\templates\main\dashboard.html:1031
-#: .\main\templates\main\dashboard.html:1261
-#: .\main\templates\main\dashboard8.html:1007
-#: .\main\templates\main\dashboard8.html:1237
 msgid "Show Quantity"
-msgstr ""
+msgstr "إظهار الكمية"
 
-#: .\main\templates\main\dashboard.html:1045
-#: .\main\templates\main\dashboard.html:1274
-#: .\main\templates\main\dashboard8.html:1021
-#: .\main\templates\main\dashboard8.html:1250
 msgid "Place Orders"
-msgstr ""
+msgstr "تقديم الطلبات"
 
-#: .\main\templates\main\dashboard.html:1054
-#: .\main\templates\main\dashboard.html:1284
-#: .\main\templates\main\dashboard8.html:1030
-#: .\main\templates\main\dashboard8.html:1260
-#, fuzzy
-#| msgid "Products"
 msgid "Product Images"
-msgstr "المنتجات"
+msgstr "صور المنتج"
 
-#: .\main\templates\main\dashboard.html:1075
-#: .\main\templates\main\dashboard8.html:1051
-#, fuzzy
-#| msgid "Products"
 msgid "Product Video"
-msgstr "المنتجات"
+msgstr "فيديو المنتج"
 
-#: .\main\templates\main\dashboard.html:1085
-#: .\main\templates\main\dashboard8.html:1061
 msgid "Optional - Upload a product video"
-msgstr ""
+msgstr "اختياري - رفع فيديو للمنتج"
 
-#: .\main\templates\main\dashboard.html:1099
-#: .\main\templates\main\dashboard.html:1329
-#: .\main\templates\main\dashboard.html:1484
-#: .\main\templates\main\dashboard.html:1633
-#: .\main\templates\main\dashboard.html:1723
-#: .\main\templates\main\dashboard.html:1822
-#: .\main\templates\main\dashboard.html:1893
-#: .\main\templates\main\dashboard.html:1963
-#: .\main\templates\main\dashboard.html:2448
-#: .\main\templates\main\dashboard.html:2491
-#: .\main\templates\main\dashboard.html:2538
-#: .\main\templates\main\dashboard8.html:1075
-#: .\main\templates\main\dashboard8.html:1305
-#: .\main\templates\main\dashboard8.html:1442
-#: .\main\templates\main\dashboard8.html:1579
-#: .\main\templates\main\dashboard8.html:1669
-#: .\main\templates\main\dashboard8.html:1768
-#: .\main\templates\main\dashboard8.html:1839
-#: .\main\templates\main\dashboard8.html:1909
-#: .\main\templates\main\dashboard8.html:2274
-#: .\main\templates\main\products.html:158
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
-#: .\main\templates\main\dashboard.html:1123
-#: .\main\templates\main\dashboard8.html:1099
-#, fuzzy
-#| msgid "Products"
 msgid "Edit Product"
-msgstr "المنتجات"
+msgstr "تعديل المنتج"
 
-#: .\main\templates\main\dashboard.html:1315
-#: .\main\templates\main\dashboard8.html:1291
 msgid "Existing gallery images"
-msgstr ""
+msgstr "صور المعرض الحالية"
 
-#: .\main\templates\main\dashboard.html:1333
-#: .\main\templates\main\dashboard8.html:1309
-#, fuzzy
-#| msgid "Featured Products"
 msgid "Update Product"
-msgstr "منتجاتنا المميّزة"
+msgstr "تحديث المنتج"
 
-#: .\main\templates\main\dashboard.html:1353
-#: .\main\templates\main\dashboard8.html:1329
 msgid "Add New Branch"
-msgstr ""
+msgstr "إضافة فرع جديد"
 
-#: .\main\templates\main\dashboard.html:1368
-#: .\main\templates\main\dashboard.html:1369
-#: .\main\templates\main\dashboard.html:1520
-#: .\main\templates\main\dashboard.html:1521
-#: .\main\templates\main\dashboard8.html:1349
-#: .\main\templates\main\dashboard8.html:1352
-#: .\main\templates\main\dashboard8.html:1486
-#: .\main\templates\main\dashboard8.html:1489
 msgid "Branch Name"
-msgstr ""
+msgstr "اسم الفرع"
 
-#: .\main\templates\main\dashboard.html:1399
-#: .\main\templates\main\dashboard.html:1400
-#: .\main\templates\main\dashboard.html:1552
-#: .\main\templates\main\dashboard.html:1553
-#: .\main\templates\main\dashboard8.html:1401
-#: .\main\templates\main\dashboard8.html:1403
-#: .\main\templates\main\dashboard8.html:1538
-#: .\main\templates\main\dashboard8.html:1540
 msgid "Latitude"
-msgstr ""
+msgstr "خط العرض"
 
-#: .\main\templates\main\dashboard.html:1406
-#: .\main\templates\main\dashboard.html:1407
-#: .\main\templates\main\dashboard.html:1559
-#: .\main\templates\main\dashboard.html:1560
-#: .\main\templates\main\dashboard8.html:1415
-#: .\main\templates\main\dashboard8.html:1417
-#: .\main\templates\main\dashboard8.html:1552
-#: .\main\templates\main\dashboard8.html:1554
 msgid "Longitude"
-msgstr ""
+msgstr "خط الطول"
 
-#: .\main\templates\main\dashboard.html:1414
-#: .\main\templates\main\dashboard.html:1415
-#: .\main\templates\main\dashboard.html:1567
-#: .\main\templates\main\dashboard.html:1568
 msgid "Opening Hours"
-msgstr ""
+msgstr "وقت الافتتاح"
 
-#: .\main\templates\main\dashboard.html:1421
-#: .\main\templates\main\dashboard.html:1422
-#: .\main\templates\main\dashboard.html:1574
-#: .\main\templates\main\dashboard.html:1575
 msgid "Closing Hours"
-msgstr ""
+msgstr "وقت الإغلاق"
 
-#: .\main\templates\main\dashboard.html:1428
-#: .\main\templates\main\dashboard.html:1429
-#: .\main\templates\main\dashboard.html:1581
-#: .\main\templates\main\dashboard.html:1582
-#, fuzzy
-#| msgid "From"
 msgid "Day From"
-msgstr "من"
+msgstr "اليوم من"
 
-#: .\main\templates\main\dashboard.html:1435
-#: .\main\templates\main\dashboard.html:1436
-#: .\main\templates\main\dashboard.html:1588
-#: .\main\templates\main\dashboard.html:1589
 msgid "Day To"
-msgstr ""
+msgstr "اليوم إلى"
 
-#: .\main\templates\main\dashboard.html:1442
-#: .\main\templates\main\dashboard.html:1443
-#: .\main\templates\main\dashboard.html:1596
-#: .\main\templates\main\dashboard.html:1597
 msgid "Facebook Link"
-msgstr ""
+msgstr "رابط فيسبوك"
 
-#: .\main\templates\main\dashboard.html:1449
-#: .\main\templates\main\dashboard.html:1450
-#: .\main\templates\main\dashboard.html:1603
-#: .\main\templates\main\dashboard.html:1604
 msgid "Instagram Link"
-msgstr ""
+msgstr "رابط إنستغرام"
 
-#: .\main\templates\main\dashboard.html:1456
-#: .\main\templates\main\dashboard.html:1457
-#: .\main\templates\main\dashboard.html:1610
-#: .\main\templates\main\dashboard.html:1611
 msgid "Twitter Link"
-msgstr ""
+msgstr "رابط تويتر"
 
-#: .\main\templates\main\dashboard.html:1463
-#: .\main\templates\main\dashboard.html:1464
-#: .\main\templates\main\dashboard.html:1617
-#: .\main\templates\main\dashboard.html:1618
 msgid "LinkedIn Link"
-msgstr ""
+msgstr "رابط لينكدإن"
 
-#: .\main\templates\main\dashboard.html:1471
-#: .\main\templates\main\dashboard.html:1626
-#: .\main\templates\main\dashboard8.html:1429
-#: .\main\templates\main\dashboard8.html:1566
 msgid "Primary Branch"
-msgstr ""
+msgstr "الفرع الرئيسي"
 
-#: .\main\templates\main\dashboard.html:1509
-#: .\main\templates\main\dashboard8.html:1466
 msgid "Edit Branch"
-msgstr ""
+msgstr "تعديل الفرع"
 
-#: .\main\templates\main\dashboard.html:1636
-#: .\main\templates\main\dashboard8.html:1583
 msgid "Update Branch"
-msgstr ""
+msgstr "تحديث الفرع"
 
-#: .\main\templates\main\dashboard.html:1677
-#: .\main\templates\main\dashboard.html:1680
-#: .\main\templates\main\dashboard.html:1767
-#: .\main\templates\main\dashboard.html:1771
-#: .\main\templates\main\dashboard8.html:1623
-#: .\main\templates\main\dashboard8.html:1626
-#: .\main\templates\main\dashboard8.html:1713
-#: .\main\templates\main\dashboard8.html:1717
 msgid "Category Name"
-msgstr ""
+msgstr "اسم التصنيف"
 
-#: .\main\templates\main\dashboard.html:1700
-#: .\main\templates\main\dashboard.html:1792
-#: .\main\templates\main\dashboard8.html:1646
-#: .\main\templates\main\dashboard8.html:1738
 msgid "Category Image"
-msgstr ""
+msgstr "صورة التصنيف"
 
-#: .\main\templates\main\dashboard.html:1710
-#: .\main\templates\main\dashboard8.html:1656
 msgid "Optional - Upload a category image"
-msgstr ""
+msgstr "اختياري - رفع صورة للتصنيف"
 
-#: .\main\templates\main\dashboard.html:1747
-#: .\main\templates\main\dashboard8.html:1693
-#, fuzzy
-#| msgid "Shop By Category"
 msgid "Edit Category"
-msgstr "تسوّق حسب التصنيف"
+msgstr "تعديل التصنيف"
 
-#: .\main\templates\main\dashboard.html:1802
-#: .\main\templates\main\dashboard.html:2529
-#: .\main\templates\main\dashboard8.html:1748
 msgid "Optional - Leave empty to keep current image"
-msgstr ""
+msgstr "اختياري - اتركه فارغًا للاحتفاظ بالصورة الحالية"
 
-#: .\main\templates\main\dashboard.html:1826
-#: .\main\templates\main\dashboard8.html:1772
-#, fuzzy
-#| msgid "Shop By Category"
 msgid "Update Category"
-msgstr "تسوّق حسب التصنيف"
+msgstr "تحديث التصنيف"
 
-#: .\main\templates\main\dashboard.html:1846
-#: .\main\templates\main\dashboard8.html:1792
-#, fuzzy
-#| msgid "Add to Cart"
 msgid "Add New City"
-msgstr "أضف إلى السلة"
+msgstr "إضافة مدينة جديدة"
 
-#: .\main\templates\main\dashboard.html:1882
-#: .\main\templates\main\dashboard.html:1952
 msgid "Delivery Fee (د.ل)"
-msgstr ""
+msgstr "رسوم التوصيل (د.ل)"
 
-#: .\main\templates\main\dashboard.html:1917
-#: .\main\templates\main\dashboard8.html:1863
 msgid "Edit City"
-msgstr ""
+msgstr "تعديل المدينة"
 
-#: .\main\templates\main\dashboard.html:1967
-#: .\main\templates\main\dashboard8.html:1913
 msgid "Update City"
-msgstr ""
+msgstr "تحديث المدينة"
 
-#: .\main\templates\main\dashboard.html:1987
-#: .\main\templates\main\dashboard8.html:1933
 msgid "Message Details"
-msgstr ""
+msgstr "تفاصيل الرسالة"
 
-#: .\main\templates\main\dashboard.html:1998
-#: .\main\templates\main\dashboard8.html:1944
-#, fuzzy
-#| msgid "From"
 msgid "From:"
-msgstr "من"
+msgstr "من:"
 
-#: .\main\templates\main\dashboard.html:2002
-#: .\main\templates\main\dashboard8.html:1948
 msgid "Message:"
-msgstr ""
+msgstr "الرسالة:"
 
-#: .\main\templates\main\dashboard.html:2016
-#: .\main\templates\main\dashboard8.html:1962
 msgid "Close"
-msgstr ""
+msgstr "إغلاق"
 
-#: .\main\templates\main\dashboard.html:2428
-#: .\main\templates\main\dashboard8.html:2254
 msgid "Confirm Action"
-msgstr ""
+msgstr "تأكيد الإجراء"
 
-#: .\main\templates\main\dashboard.html:2439
-#: .\main\templates\main\dashboard8.html:2265
 msgid "Are you sure you want to perform this action?"
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد تنفيذ هذا الإجراء؟"
 
-#: .\main\templates\main\dashboard.html:2452
-#: .\main\templates\main\dashboard8.html:2278
 msgid "Confirm"
-msgstr ""
+msgstr "تأكيد"
 
-#: .\main\templates\main\dashboard.html:2475
-#: .\main\templates\main\dashboard.html:2518
 msgid "Please enter a brand name."
-msgstr ""
+msgstr "يرجى إدخال اسم العلامة التجارية."
 
-#: .\main\templates\main\dashboard.html:2486
 msgid "Optional - Upload a brand image"
-msgstr ""
+msgstr "اختياري - رفع صورة للعلامة التجارية"
 
-#: .\main\templates\main\dashboard.html:2508
-#, fuzzy
-#| msgid "Brands"
 msgid "Edit Brand"
-msgstr "العلامات التجارية"
+msgstr "تعديل العلامة التجارية"
 
-#: .\main\templates\main\dashboard.html:2541
-#, fuzzy
-#| msgid "Top Brands"
 msgid "Update Brand"
-msgstr "أفضل العلامات التجارية"
+msgstr "تحديث العلامة التجارية"
 
-#: .\main\templates\main\dashboard8.html:544
 msgid "User"
-msgstr ""
+msgstr "المستخدم"
 
-#: .\main\templates\main\dashboard8.html:549
 msgid "Status"
-msgstr ""
+msgstr "الحالة"
 
-#: .\main\templates\main\dashboard8.html:583
 msgid "Pending"
-msgstr ""
+msgstr "قيد الانتظار"
 
-#: .\main\templates\main\dashboard8.html:590
 msgid "No inquiries yet"
-msgstr ""
+msgstr "لا توجد استفسارات بعد"
 
-#: .\main\templates\main\dashboard8.html:907
-#: .\main\templates\main\dashboard8.html:1139
-#, fuzzy
-#| msgid "Price Range"
 msgid "Price ($)"
-msgstr "نطاق السعر"
+msgstr "السعر ($)"
 
-#: .\main\templates\main\dashboard8.html:1828
-#: .\main\templates\main\dashboard8.html:1898
 msgid "Delivery Fee ($)"
+msgstr "رسوم التوصيل ($)"
+
+msgid "Copyright &copy; 2020 Company Name"
+msgstr "حقوق النشر &copy; 2020 اسم الشركة"
+
+msgid "Designed by TOOPLATE"
+msgstr "تصميم TOOPLATE"
+
+msgid "Premium Car Oils & Automotive Services | Altaj Aldaim"
+msgstr "زيوت سيارات ممتازة وخدمات سيارات | التاج الدائم"
+
+msgid "Premium Engine Oils for Maximum Performance"
+msgstr "زيوت محركات ممتازة لأقصى أداء"
+
+msgid ""
+"Expert-recommended oils, lubricants, and automotive\n"
+"            fluids. Trusted by thousands of car owners and workshops across\n"
+"            Libya."
 msgstr ""
+"زيوت ومواد تشحيم وسوائل سيارات موصى بها من الخبراء.\n"
+"            موثوق بها من آلاف مالكي السيارات وورش الصيانة في أنحاء\n"
+"            ليبيا."
 
-#: .\main\templates\main\home.html:4
-msgid "Home - United Group"
-msgstr "الرئيسية - المجموعة المتحدة"
+msgid "Shop Now"
+msgstr "تسوق الآن"
 
-#: .\main\templates\main\home.html:36
+#, python-format
+msgid "100%% Original"
+msgstr "أصلي 100%%"
+
+msgid "Fast Delivery"
+msgstr "توصيل سريع"
+
+msgid "Expert Support"
+msgstr "دعم من خبراء"
+
 msgid "Previous"
 msgstr "السابق"
 
-#: .\main\templates\main\home.html:49
 msgid "Next"
 msgstr "التالي"
 
-#: .\main\templates\main\home.html:64
-msgid "Artificial Marble • Fiberglass • Manufacturing Solutions"
-msgstr "رخام صناعي • فيبرجلاس • حلول تصنيع"
+msgid "Top Selling Products"
+msgstr "المنتجات الأكثر مبيعًا"
 
-#: .\main\templates\main\home.html:68
-msgid "United Group for Fiberglass & Artificial Marble Manufacturing"
-msgstr "المجموعة المتحدة لتصنيع الألياف الزجاجية والرخام الصناعي"
+msgid "Best quality engine oils and automotive products"
+msgstr "أفضل جودة لزيوت المحركات ومنتجات السيارات"
 
-#: .\main\templates\main\home.html:73
+msgid "View All Products"
+msgstr "عرض جميع المنتجات"
+
+msgid "Shop by Category"
+msgstr "تسوق حسب التصنيف"
+
+msgid "Everything your vehicle needs"
+msgstr "كل ما تحتاجه مركبتك"
+
+msgid "Why Choose Altaj Aldaim?"
+msgstr "لماذا تختار التاج الدائم؟"
+
+msgid "Certified Quality"
+msgstr "جودة معتمدة"
+
+msgid "Same day delivery available in major cities."
+msgstr "التوصيل في نفس اليوم متاح في المدن الرئيسية."
+
+msgid "Technical advice from experienced professionals."
+msgstr "نصائح فنية من محترفين ذوي خبرة."
+
+msgid "Trusted Brands"
+msgstr "علامات تجارية موثوقة"
+
+msgid "Premium products from world-renowned manufacturers"
+msgstr "منتجات ممتازة من شركات مصنّعة عالمية"
+
 msgid ""
-"\n"
-"          United Group was established in 2021, building on a factory that "
-"has been producing\n"
-"          fiberglass and artificial marble since 2006. Over the years, we "
-"have kept pace with\n"
-"          industry development, delivering trusted quality backed by long "
-"experience.\n"
-"          "
-msgstr ""
-"\n"
-"          تأسست المجموعة المتحدة في 2021 اعتمادًا على مصنع ينتج\n"
-"          الألياف الزجاجية والرخام الصناعي منذ 2006. وعلى مر السنين واكبنا\n"
-"          تطور الصناعة، وقدمنا جودة موثوقة مدعومة بخبرة طويلة.\n"
-"          "
+"Our experts are ready to help you select the perfect product for your "
+"vehicle."
+msgstr "خبراؤنا جاهزون لمساعدتك في اختيار المنتج المثالي لمركبتك."
 
-#: .\main\templates\main\home.html:87
-msgid "Explore Our Products"
-msgstr "استكشف منتجاتنا"
+msgid "Special Offer"
+msgstr "عرض خاص"
 
-#: .\main\templates\main\home.html:105
-msgid "Quality"
-msgstr "الجودة"
+msgid "Learn More"
+msgstr "اعرف المزيد"
 
-#: .\main\templates\main\home.html:107
-msgid "Manufacturing & inspection standards"
-msgstr "معايير التصنيع والفحص"
+msgid "Engine Oil"
+msgstr "زيت محرك"
 
-#: .\main\templates\main\home.html:120
-msgid "Experience"
-msgstr "الخبرة"
+msgid "Premium quality"
+msgstr "جودة ممتازة"
 
-#: .\main\templates\main\home.html:123 .\main\templates\main\home.html:214
-msgid "Since 2006"
-msgstr "منذ 2006"
+msgid "Buy"
+msgstr "شراء"
 
-#: .\main\templates\main\home.html:157
-msgid "A well-established company with accumulated industrial expertise"
-msgstr "شركة راسخة بخبرة صناعية متراكمة"
+msgid "Transmission Fluids"
+msgstr "سوائل ناقل الحركة"
 
-#: .\main\templates\main\home.html:162
-msgid ""
-"\n"
-"        We started as a factory in 2006, and in 2021 United Group was "
-"established to provide\n"
-"        integrated manufacturing solutions in fiberglass and artificial "
-"marble — committed to\n"
-"        quality, innovation, and serving projects of all sizes.\n"
-"        "
-msgstr ""
-"\n"
-"        بدأنا كمصنع في 2006، وفي 2021 تأسست المجموعة المتحدة لتقديم\n"
-"        حلول تصنيع متكاملة في الألياف الزجاجية والرخام الصناعي — ملتزمون\n"
-"        بالجودة والابتكار وخدمة المشاريع بجميع أحجامها.\n"
-"        "
+msgid "Brake Fluids"
+msgstr "سوائل الفرامل"
 
-#: .\main\templates\main\home.html:181
-msgid "Quality commitment"
-msgstr "التزام بالجودة"
+msgid "Coolants"
+msgstr "سوائل التبريد"
 
-#: .\main\templates\main\home.html:184
-msgid "Careful inspection & finishing"
-msgstr "فحص وتشطيب بعناية"
+msgid "Filters"
+msgstr "فلاتر"
 
-#: .\main\templates\main\home.html:212
-msgid "Years of experience"
-msgstr "سنوات من الخبرة"
+msgid "Greases"
+msgstr "شحوم"
 
-#: .\main\templates\main\home.html:244
-msgid "Supply, execution & installation"
-msgstr "توريد وتنفيذ وتركيب"
+msgid "Brand"
+msgstr "العلامة التجارية"
 
-#: .\main\templates\main\home.html:272
-msgid "On-time delivery"
-msgstr "التسليم في الموعد"
+msgid "Products will be available soon. Please check back later."
+msgstr "المنتجات ستكون متاحة قريبًا. يرجى العودة لاحقًا."
 
-#: .\main\templates\main\home.html:275
-msgid "Organized scheduling & delivery"
-msgstr "تنظيم وجدولة وتسليم"
-
-#: .\main\templates\main\home.html:300
-msgid "Professional manufacturing & finishing"
-msgstr "تصنيع وتشطيب باحترافية"
-
-#: .\main\templates\main\home.html:306
-msgid "Certified raw materials"
-msgstr "مواد خام معتمدة"
-
-#: .\main\templates\main\home.html:312
-msgid "Trusted partnerships"
-msgstr "شراكات موثوقة"
-
-#: .\main\templates\main\home.html:341
-msgid "Products & Services"
-msgstr "المنتجات والخدمات"
-
-#: .\main\templates\main\home.html:344
-msgid "Integrated solutions for fiberglass and artificial marble"
-msgstr "حلول متكاملة للفيبرجلاس والرخام الصناعي"
-
-#: .\main\templates\main\home.html:348
-msgid ""
-"\n"
-"        We provide manufacturing and supply solutions including artificial "
-"marble,\n"
-"        fiberglass products, and durable finishes for different use cases.\n"
-"        "
-msgstr ""
-"\n"
-"        نقدم حلول تصنيع وتوريد تشمل الرخام الصناعي،\n"
-"        ومنتجات الألياف الزجاجية، وتشطيبات متينة لمختلف الاستخدامات.\n"
-"        "
-
-#: .\main\templates\main\home.html:368
-msgid "Our Partners"
-msgstr "شركاؤنا"
-
-#: .\main\templates\main\home.html:371
-msgid "Long-standing trust and partnerships"
-msgstr "ثقة وشراكات ممتدة"
-
-#: .\main\templates\main\home.html:375
-msgid ""
-"\n"
-"        We are proud of the trust of our clients and partners in delivering "
-"industrial\n"
-"        solutions that meet standards and project needs.\n"
-"        "
-msgstr ""
-"\n"
-"        نفخر بثقة عملائنا وشركائنا في تقديم حلول صناعية\n"
-"        تلبي المعايير واحتياجات المشاريع.\n"
-"        "
-
-#: .\main\templates\main\home.html:395 .\main\templates\main\home2.html:687
-msgid "Featured Products"
-msgstr "منتجاتنا المميّزة"
-
-#: .\main\templates\main\home.html:398
-msgid "Selected highlights from our catalog"
-msgstr "مختارات مميزة من كتالوجنا"
-
-#: .\main\templates\main\home.html:402
-msgid ""
-"\n"
-"        A curated selection of products, materials, and solutions most "
-"requested by\n"
-"        clients and projects.\n"
-"        "
-msgstr ""
-"\n"
-"        مجموعة مختارة من المنتجات والخامات والحلول الأكثر طلبًا\n"
-"        لدى العملاء والمشاريع.\n"
-"        "
-
-#: .\main\templates\main\home.html:418
-msgid "View all products"
-msgstr "عرض كل المنتجات"
-
-#: .\main\templates\main\home.html:993
-msgid "Premium manufacturing & finishing"
-msgstr "تصنيع وتشطيب بمستوى ممتاز"
-
-#: .\main\templates\main\home.html:997
-msgid "Fiberglass & artificial marble solutions"
-msgstr "حلول الألياف الزجاجية والرخام الصناعي"
-
-#: .\main\templates\main\home.html:1034
-msgid "Artificial marble & finishing"
-msgstr "رخام صناعي وتشطيب"
-
-#: .\main\templates\main\home.html:1035
-msgid "Trusted quality with long experience"
-msgstr "جودة موثوقة بخبرة طويلة"
-
-#: .\main\templates\main\home.html:1079
-msgid "No partners data available at the moment."
-msgstr "لا توجد بيانات للشركاء في الوقت الحالي."
-
-#: .\main\templates\main\home.html:1116
-msgid "No products/services available at the moment."
-msgstr "لا توجد منتجات/خدمات متاحة في الوقت الحالي."
-
-#: .\main\templates\main\home.html:1201
-msgid "No featured products available at the moment."
-msgstr "لا توجد منتجات مميزة متاحة في الوقت الحالي."
-
-#: .\main\templates\main\home.html:1280 .\main\templates\main\shop.html:1599
-msgid "In stock"
-msgstr "متوفر في المخزون"
-
-#: .\main\templates\main\home.html:1284
-msgid "Made to order"
-msgstr "يُصنع حسب الطلب"
-
-#: .\main\templates\main\home.html:1287
-#: .\main\templates\main\product_detail.html:702
-#: .\main\templates\main\shop.html:1618
-msgid "Out of stock"
-msgstr "غير متوفر في المخزون"
-
-#: .\main\templates\main\home.html:1312
-msgid "Unable to load content. Please try again later."
-msgstr "تعذر تحميل المحتوى. يرجى المحاولة لاحقًا."
-
-#: .\main\templates\main\home2.html:659
 msgid "Search for products, categories, brands..."
-msgstr "ابحث عن منتجات أو تصنيفات أو علامات تجارية..."
+msgstr "ابحث عن منتجات، تصنيفات، علامات تجارية..."
 
-#: .\main\templates\main\home2.html:663
 msgid "Search"
 msgstr "بحث"
 
-#: .\main\templates\main\home2.html:672
 msgid "Shop By Category"
-msgstr "تسوّق حسب التصنيف"
+msgstr "تسوق حسب التصنيف"
 
-#: .\main\templates\main\home2.html:674
 msgid "Browse our wide range of categories"
-msgstr "تصفّح مجموعتنا الواسعة من التصنيفات"
+msgstr "تصفح مجموعتنا الواسعة من التصنيفات"
 
-#: .\main\templates\main\home2.html:689
+msgid "Featured Products"
+msgstr "منتجات مميزة"
+
 msgid "Discover our most popular items"
-msgstr "اكتشف أكثر منتجاتنا شيوعًا"
+msgstr "اكتشف أكثر منتجاتنا شعبية"
 
-#: .\main\templates\main\home2.html:697
-msgid "View All Products"
-msgstr "عرض كل المنتجات"
-
-#: .\main\templates\main\home2.html:708
 msgid "New Arrivals"
-msgstr "أحدث المنتجات"
+msgstr "وصل حديثًا"
 
-#: .\main\templates\main\home2.html:709
 msgid "Fresh picks just for you"
 msgstr "اختيارات جديدة خصيصًا لك"
 
-#: .\main\templates\main\login.html:3
-#, fuzzy
-#| msgid "Page Not Found - AWFERLK Solutions"
 msgid "Login - AWFERLK Solutions"
-msgstr "الصفحة غير موجودة - اوفرلك للحلول التقنية"
+msgstr "تسجيل الدخول - حلول AWFERLK"
 
-#: .\main\templates\main\login.html:15
 msgid "Welcome Back"
-msgstr ""
+msgstr "مرحبًا بعودتك"
 
-#: .\main\templates\main\login.html:17
 msgid "Sign in to your account to continue"
-msgstr ""
+msgstr "سجّل الدخول إلى حسابك للمتابعة"
 
-#: .\main\templates\main\login.html:37
 msgid "Username"
-msgstr ""
+msgstr "اسم المستخدم"
 
-#: .\main\templates\main\login.html:49
 msgid "Enter your username"
-msgstr ""
+msgstr "أدخل اسم المستخدم"
 
-#: .\main\templates\main\login.html:57
 msgid "Password"
-msgstr ""
+msgstr "كلمة المرور"
 
-#: .\main\templates\main\login.html:69
 msgid "Enter your password"
-msgstr ""
+msgstr "أدخل كلمة المرور"
 
-#: .\main\templates\main\login.html:86
 msgid "Remember me"
-msgstr ""
+msgstr "تذكرني"
 
-#: .\main\templates\main\login.html:90
 msgid "Forgot password?"
-msgstr ""
+msgstr "نسيت كلمة المرور؟"
 
-#: .\main\templates\main\login.html:101
 msgid "Sign In"
-msgstr ""
+msgstr "تسجيل الدخول"
 
-#: .\main\templates\main\login.html:114
 msgid "Don't have an account?"
-msgstr ""
+msgstr "ليس لديك حساب؟"
 
-#: .\main\templates\main\login.html:116
 msgid "Contact administrator"
-msgstr ""
+msgstr "تواصل مع المسؤول"
 
-#: .\main\templates\main\login.html:128
 msgid "Your login information is securely encrypted"
-msgstr ""
+msgstr "معلومات تسجيل الدخول الخاصة بك مشفّرة بأمان"
 
-#: .\main\templates\main\login.html:160
 msgid "Signing in..."
-msgstr ""
+msgstr "جارٍ تسجيل الدخول..."
 
-#: .\main\templates\main\product_detail.html:573
 msgid "Your browser does not support the video tag."
-msgstr ""
+msgstr "متصفحك لا يدعم وسم الفيديو."
 
-#: .\main\templates\main\product_detail.html:595
 msgid "Video Available"
-msgstr ""
+msgstr "يتوفر فيديو"
 
-#: .\main\templates\main\product_detail.html:638
 #, python-format
 msgid "%(product.name)s extra image"
-msgstr ""
+msgstr "صورة إضافية لـ %(product.name)s"
 
-#: .\main\templates\main\product_detail.html:669
-#: .\main\templates\main\shop.html:1690
 msgid "Uncategorized"
 msgstr "غير مصنف"
 
-#: .\main\templates\main\product_detail.html:685
-#: .\main\templates\main\product_detail.html:775
-#: .\main\templates\main\shop.html:1587
 msgid "Price on request"
 msgstr "السعر عند الطلب"
 
-#: .\main\templates\main\product_detail.html:700
 #, python-format
 msgid "%(product.quantity_available)s items available"
-msgstr "الكمية المتاحة: %(product.quantity_available)s"
+msgstr "متوفر %(product.quantity_available)s قطعة"
 
-#: .\main\templates\main\product_detail.html:705
+msgid "Out of stock"
+msgstr "غير متوفر"
+
 msgid "Stock information not available"
 msgstr "معلومات المخزون غير متاحة"
 
-#: .\main\templates\main\product_detail.html:721
 msgid "Fast shipping"
-msgstr "توصيل سريع"
+msgstr "شحن سريع"
 
-#: .\main\templates\main\product_detail.html:725
 msgid "2 days return policy"
 msgstr "سياسة إرجاع خلال يومين"
 
-#: .\main\templates\main\product_detail.html:729
 msgid "High quality"
 msgstr "جودة عالية"
 
-#: .\main\templates\main\product_detail.html:738
 msgid "Similar Products"
 msgstr "منتجات مشابهة"
 
-#: .\main\templates\main\product_detail.html:787
 msgid "Product added to cart!"
 msgstr "تمت إضافة المنتج إلى السلة!"
 
-#: .\main\templates\main\product_detail.html:907
-#: .\main\templates\main\shop.html:1661 .\main\templates\main\shop.html:1829
 msgid "Add to Cart"
 msgstr "أضف إلى السلة"
 
-#: .\main\templates\main\product_detail.html:907
-#: .\main\templates\main\shop.html:1600 .\main\templates\main\shop.html:1662
-#: .\main\templates\main\shop.html:1830
 msgid "Cannot Order"
-msgstr "غير متاح للطلب"
+msgstr "لا يمكن الطلب"
 
-#: .\main\templates\main\product_detail.html:934
 msgid "This product cannot be ordered"
 msgstr "لا يمكن طلب هذا المنتج"
 
-#: .\main\templates\main\product_detail.html:968
 msgid "Added!"
 msgstr "تمت الإضافة!"
 
-#: .\main\templates\main\product_detail.html:1116
 msgid "Saved!"
 msgstr "تم الحفظ!"
 
-#: .\main\templates\main\product_detail.html:1125
 msgid "Added to wishlist"
 msgstr "تمت الإضافة إلى المفضلة"
 
-#: .\main\templates\main\product_detail.html:1129
 msgid "Already in wishlist"
 msgstr "موجود بالفعل في المفضلة"
 
-#: .\main\templates\main\products.html:4
-#, fuzzy
-#| msgid "Page Not Found - AWFERLK Solutions"
 msgid "Our Products - AWFERLK Solutions"
-msgstr "الصفحة غير موجودة - اوفرلك للحلول التقنية"
+msgstr "منتجاتنا - حلول AWFERLK"
 
-#: .\main\templates\main\products.html:13
-#, fuzzy
-#| msgid "Products"
 msgid "Our Products"
-msgstr "المنتجات"
+msgstr "منتجاتنا"
 
-#: .\main\templates\main\products.html:15
 msgid "Discover our comprehensive suite of technology solutions"
-msgstr ""
+msgstr "اكتشف مجموعتنا الشاملة من الحلول التقنية"
 
-#: .\main\templates\main\products.html:44
 msgid "No image"
-msgstr ""
+msgstr "لا توجد صورة"
 
-#: .\main\templates\main\products.html:53
 msgid "Place Inquiry"
-msgstr ""
+msgstr "إرسال استفسار"
 
-#: .\main\templates\main\products.html:69
 msgid "Custom"
-msgstr ""
+msgstr "مخصص"
 
-#: .\main\templates\main\products.html:99
 msgid "Delivery Address"
-msgstr ""
+msgstr "عنوان التوصيل"
 
-#: .\main\templates\main\products.html:106
 msgid "Enter complete delivery address"
-msgstr ""
+msgstr "أدخل عنوان التوصيل الكامل"
 
-#: .\main\templates\main\products.html:114
 msgid "City"
-msgstr ""
+msgstr "المدينة"
 
-#: .\main\templates\main\products.html:141
 msgid "Pick Location on Map"
-msgstr ""
+msgstr "اختر الموقع على الخريطة"
 
-#: .\main\templates\main\products.html:151
 msgid "Submit Inquiry"
-msgstr ""
+msgstr "إرسال الاستفسار"
 
-#: .\main\templates\main\products.html:172
-#, fuzzy
-#| msgid "No brands available."
 msgid "No Products Available"
-msgstr "لا توجد علامات تجارية متاحة."
+msgstr "لا توجد منتجات متاحة"
 
-#: .\main\templates\main\products.html:174
 msgid "Check back later for our latest offerings."
-msgstr ""
+msgstr "عد لاحقًا للاطلاع على أحدث عروضنا."
 
-#: .\main\templates\main\products.html:266
 msgid "Processing..."
-msgstr ""
+msgstr "جارٍ المعالجة..."
 
-#: .\main\templates\main\products.html:284
 msgid "Inquiry Submitted Successfully!"
-msgstr ""
+msgstr "تم إرسال الاستفسار بنجاح!"
 
-#: .\main\templates\main\products.html:285
 msgid "We'll contact you shortly."
-msgstr ""
+msgstr "سنتواصل معك قريبًا."
 
-#: .\main\templates\main\products.html:287
 msgid "Submit Another"
-msgstr ""
+msgstr "إرسال استفسار آخر"
 
-#: .\main\templates\main\products.html:308
 msgid "An error occurred while submitting your inquiry."
-msgstr ""
+msgstr "حدث خطأ أثناء إرسال الاستفسار."
 
-#: .\main\templates\main\shop.html:6
 msgid "Shop - Browse Products"
-msgstr "المتجر - استعراض المنتجات"
+msgstr "المتجر - تصفح المنتجات"
 
-#: .\main\templates\main\shop.html:1062 .\main\templates\main\shop.html:1163
 msgid "Price Range"
 msgstr "نطاق السعر"
 
-#: .\main\templates\main\shop.html:1068 .\main\templates\main\shop.html:1169
 msgid "From"
 msgstr "من"
 
-#: .\main\templates\main\shop.html:1070 .\main\templates\main\shop.html:1171
 msgid "To"
 msgstr "إلى"
 
-#: .\main\templates\main\shop.html:1088 .\main\templates\main\shop.html:1189
 msgid "Availability"
 msgstr "التوفر"
 
-#: .\main\templates\main\shop.html:1099 .\main\templates\main\shop.html:1200
 msgid "In Stock Only"
 msgstr "المتوفر فقط"
 
-#: .\main\templates\main\shop.html:1110 .\main\templates\main\shop.html:1551
 msgid "Clear Filters"
-msgstr "مسح عوامل التصفية"
+msgstr "مسح الفلاتر"
 
-#: .\main\templates\main\shop.html:1134
-msgid "Filters"
-msgstr "عوامل التصفية"
-
-#: .\main\templates\main\shop.html:1208
 msgid "Clear All"
 msgstr "مسح الكل"
 
-#: .\main\templates\main\shop.html:1214
 msgid "Apply Filters"
-msgstr "تطبيق التصفية"
+msgstr "تطبيق الفلاتر"
 
-#: .\main\templates\main\shop.html:1222
 msgid "Sort By"
-msgstr "فرز حسب"
+msgstr "ترتيب حسب"
 
-#: .\main\templates\main\shop.html:1240
 msgid "Newest First"
 msgstr "الأحدث أولاً"
 
-#: .\main\templates\main\shop.html:1250
 msgid "Price: Low to High"
 msgstr "السعر: من الأقل إلى الأعلى"
 
-#: .\main\templates\main\shop.html:1260
 msgid "Price: High to Low"
 msgstr "السعر: من الأعلى إلى الأقل"
 
-#: .\main\templates\main\shop.html:1270
 msgid "Name A-Z"
-msgstr "الاسم (أ-ي)"
+msgstr "الاسم: A-Z"
 
-#: .\main\templates\main\shop.html:1280
 msgid "Most Popular"
-msgstr "الأكثر شهرة"
+msgstr "الأكثر شيوعًا"
 
-#: .\main\templates\main\shop.html:1288
 msgid "Done"
 msgstr "تم"
 
-#: .\main\templates\main\shop.html:1518
 msgid "All"
 msgstr "الكل"
 
-#: .\main\templates\main\shop.html:1548
 msgid "No products found"
 msgstr "لم يتم العثور على منتجات"
 
-#: .\main\templates\main\shop.html:1549
 msgid "Try adjusting your filters or search terms"
-msgstr "جرّب تعديل عوامل التصفية أو كلمات البحث"
+msgstr "جرّب تعديل الفلاتر أو كلمات البحث"
 
-#: .\main\templates\main\shop.html:1598
 msgid "in stock"
 msgstr "متوفر"
 
-#: .\main\templates\main\shop.html:1610
+msgid "In stock"
+msgstr "متوفر"
+
 msgid "New"
 msgstr "جديد"
 
-#: .\main\templates\main\shop.html:1614
 msgid "Video"
 msgstr "فيديو"
 
-#: .\venv\Lib\site-packages\crispy_forms\tests\test_form_helper.py:130
-#: .\venv\Lib\site-packages\crispy_forms\tests\test_form_helper.py:140
-#: .\venv\Lib\site-packages\django\forms\fields.py:91
 msgid "This field is required."
-msgstr ""
+msgstr "هذا الحقل مطلوب."
 
-#: .\venv\Lib\site-packages\crispy_forms\tests\test_layout.py:392
 msgid "i18n text"
-msgstr ""
+msgstr "نص i18n"
 
-#: .\venv\Lib\site-packages\crispy_forms\tests\test_layout.py:394
 msgid "i18n legend"
-msgstr ""
+msgstr "وصف i18n"
 
-#: .\venv\Lib\site-packages\crispy_forms\tests\test_layout_objects.py:143
-#: .\venv\Lib\site-packages\django\core\validators.py:22
 msgid "Enter a valid value."
-msgstr ""
+msgstr "أدخل قيمة صحيحة."
 
-#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
 msgid "Site Maps"
 msgstr "خرائط الموقع"
 
-#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
 msgid "Static Files"
 msgstr "الملفات الثابتة"
 
-#: .\venv\Lib\site-packages\django\contrib\syndication\apps.py:7
 msgid "Syndication"
-msgstr "التوزيع (Syndication)"
+msgstr "التغذية"
 
 #. Translators: String used to replace omitted page numbers in elided page
 #. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-#: .\venv\Lib\site-packages\django\core\paginator.py:30
 msgid "…"
-msgstr ""
+msgstr "…"
 
-#: .\venv\Lib\site-packages\django\core\paginator.py:50
 msgid "That page number is not an integer"
 msgstr "رقم الصفحة ليس عددًا صحيحًا"
 
-#: .\venv\Lib\site-packages\django\core\paginator.py:52
 msgid "That page number is less than 1"
 msgstr "رقم الصفحة أقل من 1"
 
-#: .\venv\Lib\site-packages\django\core\paginator.py:54
 msgid "That page contains no results"
 msgstr "هذه الصفحة لا تحتوي على نتائج"
 
-#: .\venv\Lib\site-packages\django\core\validators.py:104
-#: .\venv\Lib\site-packages\django\forms\fields.py:749
 msgid "Enter a valid URL."
-msgstr ""
+msgstr "أدخل رابطًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:164
 msgid "Enter a valid integer."
-msgstr ""
+msgstr "أدخل رقمًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:175
 msgid "Enter a valid email address."
-msgstr ""
+msgstr "أدخل بريدًا إلكترونيًا صحيحًا."
 
 #. Translators: "letters" means latin letters: a-z and A-Z.
-#: .\venv\Lib\site-packages\django\core\validators.py:256
 msgid ""
 "Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
+msgstr "أدخل “slug” صالحًا يتكون من أحرف وأرقام وشرطة سفلية أو شرطة."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:264
 msgid ""
 "Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
 "hyphens."
-msgstr ""
+msgstr "أدخل “slug” صالحًا يتكون من أحرف يونيكود وأرقام وشرطة سفلية أو شرطة."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:276
-#: .\venv\Lib\site-packages\django\core\validators.py:284
-#: .\venv\Lib\site-packages\django\core\validators.py:313
 msgid "Enter a valid IPv4 address."
-msgstr ""
+msgstr "أدخل عنوان IPv4 صحيحًا."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:293
-#: .\venv\Lib\site-packages\django\core\validators.py:314
 msgid "Enter a valid IPv6 address."
-msgstr ""
+msgstr "أدخل عنوان IPv6 صحيحًا."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:305
-#: .\venv\Lib\site-packages\django\core\validators.py:312
 msgid "Enter a valid IPv4 or IPv6 address."
-msgstr ""
+msgstr "أدخل عنوان IPv4 أو IPv6 صحيحًا."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:348
 msgid "Enter only digits separated by commas."
-msgstr ""
+msgstr "أدخل أرقامًا فقط مفصولة بفواصل."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:354
 #, python-format
 msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
+msgstr "تأكد أن هذه القيمة هي %(limit_value)s (القيمة الحالية %(show_value)s)."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:389
 #, python-format
 msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr ""
+msgstr "تأكد أن هذه القيمة أقل من أو تساوي %(limit_value)s."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:398
 #, python-format
 msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr ""
+msgstr "تأكد أن هذه القيمة أكبر من أو تساوي %(limit_value)s."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:407
 #, python-format
 msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
+msgstr "تأكد أن هذه القيمة مضاعف لحجم الخطوة %(limit_value)s."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:417
 #, python-format
 msgid ""
 "Ensure this value has at least %(limit_value)d character (it has "
@@ -2490,14 +1628,9 @@ msgid ""
 msgid_plural ""
 "Ensure this value has at least %(limit_value)d characters (it has "
 "%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "تأكد أن هذه القيمة تحتوي على الأقل على %(limit_value)d حرف (حاليًا تحتوي على %(show_value)d)."
+msgstr[1] "تأكد أن هذه القيمة تحتوي على الأقل على %(limit_value)d أحرف (حاليًا تحتوي على %(show_value)d)."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:435
 #, python-format
 msgid ""
 "Ensure this value has at most %(limit_value)d character (it has "
@@ -2505,995 +1638,733 @@ msgid ""
 msgid_plural ""
 "Ensure this value has at most %(limit_value)d characters (it has "
 "%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "تأكد أن هذه القيمة لا تتجاوز %(limit_value)d حرف (حاليًا تحتوي على %(show_value)d)."
+msgstr[1] "تأكد أن هذه القيمة لا تتجاوز %(limit_value)d أحرف (حاليًا تحتوي على %(show_value)d)."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:458
-#: .\venv\Lib\site-packages\django\forms\fields.py:347
-#: .\venv\Lib\site-packages\django\forms\fields.py:386
 msgid "Enter a number."
-msgstr ""
+msgstr "أدخل رقمًا."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:460
 #, python-format
 msgid "Ensure that there are no more than %(max)s digit in total."
 msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "تأكد ألا يزيد إجمالي عدد الأرقام عن %(max)s رقم."
+msgstr[1] "تأكد ألا يزيد إجمالي عدد الأرقام عن %(max)s أرقام."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:465
 #, python-format
 msgid "Ensure that there are no more than %(max)s decimal place."
 msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "تأكد ألا يزيد عدد المنازل العشرية عن %(max)s."
+msgstr[1] "تأكد ألا يزيد عدد المنازل العشرية عن %(max)s."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:470
 #, python-format
 msgid ""
 "Ensure that there are no more than %(max)s digit before the decimal point."
 msgid_plural ""
 "Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "تأكد ألا يزيد عدد الأرقام قبل الفاصلة العشرية عن %(max)s."
+msgstr[1] "تأكد ألا يزيد عدد الأرقام قبل الفاصلة العشرية عن %(max)s."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:541
 #, python-format
 msgid ""
 "File extension “%(extension)s” is not allowed. Allowed extensions are: "
 "%(allowed_extensions)s."
 msgstr ""
+"امتداد الملف “%(extension)s” غير مسموح به. الامتدادات المسموح بها هي: "
+"%(allowed_extensions)s."
 
-#: .\venv\Lib\site-packages\django\core\validators.py:602
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "الأحرف الفارغة (Null) غير مسموح بها."
 
-#: .\venv\Lib\site-packages\django\db\models\base.py:1423
-#: .\venv\Lib\site-packages\django\forms\models.py:893
-#, fuzzy
-#| msgid "Brands"
 msgid "and"
-msgstr "العلامات التجارية"
+msgstr "و"
 
-#: .\venv\Lib\site-packages\django\db\models\base.py:1425
 #, python-format
 msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr ""
+msgstr "%(model_name)s بهذا %(field_labels)s موجود بالفعل."
 
-#: .\venv\Lib\site-packages\django\db\models\constraints.py:17
 #, python-format
 msgid "Constraint “%(name)s” is violated."
-msgstr ""
+msgstr "تمت مخالفة القيد “%(name)s”."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:128
 #, python-format
 msgid "Value %(value)r is not a valid choice."
-msgstr ""
+msgstr "القيمة %(value)r ليست خيارًا صالحًا."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:129
-#, fuzzy
-#| msgid "This product cannot be ordered"
 msgid "This field cannot be null."
-msgstr "لا يمكن طلب هذا المنتج"
+msgstr "لا يمكن أن يكون هذا الحقل فارغًا (null)."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:130
 msgid "This field cannot be blank."
-msgstr ""
+msgstr "لا يمكن ترك هذا الحقل فارغًا."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:131
 #, python-format
 msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr ""
+msgstr "%(model_name)s بهذا %(field_label)s موجود بالفعل."
 
 #. Translators: The 'lookup_type' is one of 'date', 'year' or
 #. 'month'. Eg: "Title must be unique for pub_date year"
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:135
 #, python-format
 msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
+msgstr "يجب أن يكون %(field_label)s فريدًا لـ %(date_field_label)s حسب %(lookup_type)s."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:173
 #, python-format
 msgid "Field of type: %(field_type)s"
-msgstr ""
+msgstr "حقل من النوع: %(field_type)s"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1094
 #, python-format
 msgid "“%(value)s” value must be either True or False."
-msgstr ""
+msgstr "يجب أن تكون قيمة “%(value)s” إما True أو False."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1095
 #, python-format
 msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
+msgstr "يجب أن تكون قيمة “%(value)s” إما True أو False أو None."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1097
 msgid "Boolean (Either True or False)"
-msgstr ""
+msgstr "قيمة منطقية (إما True أو False)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1147
 #, python-format
 msgid "String (up to %(max_length)s)"
-msgstr ""
+msgstr "نص (حتى %(max_length)s)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1149
 msgid "String (unlimited)"
-msgstr ""
+msgstr "نص (غير محدود)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1253
 msgid "Comma-separated integers"
-msgstr ""
+msgstr "أعداد صحيحة مفصولة بفواصل"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1354
 #, python-format
 msgid ""
 "“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
 "format."
-msgstr ""
+msgstr "تنسيق التاريخ للقيمة “%(value)s” غير صحيح. يجب أن يكون بصيغة YYYY-MM-DD."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1358
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1493
 #, python-format
 msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
-msgstr ""
+msgstr "القيمة “%(value)s” بصيغة صحيحة (YYYY-MM-DD) لكنها تاريخ غير صالح."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1362
 msgid "Date (without time)"
-msgstr ""
+msgstr "تاريخ (بدون وقت)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1489
 #, python-format
 msgid ""
 "“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
 "uuuuuu]][TZ] format."
 msgstr ""
+"تنسيق القيمة “%(value)s” غير صحيح. يجب أن يكون بصيغة YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1497
 #, python-format
 msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
 "[TZ]) but it is an invalid date/time."
 msgstr ""
+"القيمة “%(value)s” بصيغة صحيحة (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) لكنها تاريخ/وقت غير صالح."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1502
 msgid "Date (with time)"
-msgstr ""
+msgstr "تاريخ (مع وقت)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1626
 #, python-format
 msgid "“%(value)s” value must be a decimal number."
-msgstr ""
+msgstr "يجب أن تكون قيمة “%(value)s” رقمًا عشريًا."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1628
 msgid "Decimal number"
-msgstr ""
+msgstr "رقم عشري"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1791
 #, python-format
 msgid ""
 "“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
 "uuuuuu] format."
-msgstr ""
+msgstr "تنسيق القيمة “%(value)s” غير صحيح. يجب أن يكون بصيغة [DD] [[HH:]MM:]ss[.uuuuuu]."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1795
-#, fuzzy
-#| msgid "Documentation"
 msgid "Duration"
-msgstr "التوثيق"
+msgstr "المدة"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1847
 msgid "Email address"
-msgstr ""
+msgstr "عنوان البريد الإلكتروني"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1872
 msgid "File path"
-msgstr ""
+msgstr "مسار الملف"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1950
 #, python-format
 msgid "“%(value)s” value must be a float."
-msgstr ""
+msgstr "يجب أن تكون قيمة “%(value)s” رقمًا عشريًا (float)."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1952
 msgid "Floating point number"
-msgstr ""
+msgstr "رقم عشري (Floating point)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1992
 #, python-format
 msgid "“%(value)s” value must be an integer."
-msgstr ""
+msgstr "يجب أن تكون قيمة “%(value)s” عددًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1994
 msgid "Integer"
-msgstr ""
+msgstr "عدد صحيح"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2090
 msgid "Big (8 byte) integer"
-msgstr ""
+msgstr "عدد صحيح كبير (8 بايت)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2107
 msgid "Small integer"
-msgstr ""
+msgstr "عدد صحيح صغير"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2115
 msgid "IPv4 address"
-msgstr ""
+msgstr "عنوان IPv4"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2146
 msgid "IP address"
-msgstr ""
+msgstr "عنوان IP"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2239
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2240
 #, python-format
 msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
+msgstr "يجب أن تكون قيمة “%(value)s” إما None أو True أو False."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2242
 msgid "Boolean (Either True, False or None)"
-msgstr ""
+msgstr "قيمة منطقية (True أو False أو None)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2293
 msgid "Positive big integer"
-msgstr ""
+msgstr "عدد صحيح كبير موجب"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2308
 msgid "Positive integer"
-msgstr ""
+msgstr "عدد صحيح موجب"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2323
 msgid "Positive small integer"
-msgstr ""
+msgstr "عدد صحيح صغير موجب"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2339
 #, python-format
 msgid "Slug (up to %(max_length)s)"
-msgstr ""
+msgstr "Slug (حتى %(max_length)s)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2375
 msgid "Text"
-msgstr ""
+msgstr "نص"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2450
 #, python-format
 msgid ""
 "“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
 "format."
-msgstr ""
+msgstr "تنسيق القيمة “%(value)s” غير صحيح. يجب أن يكون بصيغة HH:MM[:ss[.uuuuuu]]."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2454
 #, python-format
 msgid ""
 "“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
 "invalid time."
-msgstr ""
+msgstr "القيمة “%(value)s” بصيغة صحيحة (HH:MM[:ss[.uuuuuu]]) لكنها وقت غير صالح."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2458
 msgid "Time"
-msgstr ""
+msgstr "وقت"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2566
 msgid "URL"
-msgstr ""
+msgstr "رابط URL"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2590
 msgid "Raw binary data"
-msgstr ""
+msgstr "بيانات ثنائية خام"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2655
 #, python-format
 msgid "“%(value)s” is not a valid UUID."
-msgstr ""
+msgstr "“%(value)s” ليس UUID صالحًا."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2657
 msgid "Universally unique identifier"
-msgstr ""
+msgstr "معرف فريد عالميًا"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\files.py:232
 msgid "File"
-msgstr ""
+msgstr "ملف"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\json.py:26
 msgid "A JSON object"
-msgstr ""
+msgstr "كائن JSON"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\json.py:28
 msgid "Value must be valid JSON."
-msgstr ""
+msgstr "يجب أن تكون القيمة JSON صالحة."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\related.py:919
 #, python-format
 msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
+msgstr "لا يوجد مثيل %(model)s بالحقل %(field)s وقيمته %(value)r."
 
-#: .\venv\Lib\site-packages\django\db\models\fields\related.py:921
 msgid "Foreign Key (type determined by related field)"
-msgstr ""
+msgstr "مفتاح خارجي (يُحدد نوعه حسب الحقل المرتبط)"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1212
 msgid "One-to-one relationship"
-msgstr ""
+msgstr "علاقة واحد لواحد"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1269
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "علاقة %(from)s-%(to)s"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1271
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "علاقات %(from)s-%(to)s"
 
-#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1319
 msgid "Many-to-many relationship"
-msgstr ""
+msgstr "علاقة متعدد لمتعدد"
 
 #. Translators: If found as last label character, these punctuation
 #. characters will prevent the default label_suffix to be appended to the label
-#: .\venv\Lib\site-packages\django\forms\boundfield.py:184
 msgid ":?.!"
-msgstr ""
+msgstr ":?.!"
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:298
 msgid "Enter a whole number."
-msgstr ""
+msgstr "أدخل عددًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:467
-#: .\venv\Lib\site-packages\django\forms\fields.py:1238
 msgid "Enter a valid date."
-msgstr ""
+msgstr "أدخل تاريخًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:490
-#: .\venv\Lib\site-packages\django\forms\fields.py:1239
 msgid "Enter a valid time."
-msgstr ""
+msgstr "أدخل وقتًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:517
 msgid "Enter a valid date/time."
-msgstr ""
+msgstr "أدخل تاريخًا/وقتًا صحيحًا."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:551
 msgid "Enter a valid duration."
-msgstr ""
+msgstr "أدخل مدة صحيحة."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:552
 #, python-brace-format
 msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
+msgstr "يجب أن يكون عدد الأيام بين {min_days} و {max_days}."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:618
 msgid "No file was submitted. Check the encoding type on the form."
-msgstr ""
+msgstr "لم يتم إرسال أي ملف. تحقق من نوع الترميز في النموذج."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:619
 msgid "No file was submitted."
-msgstr ""
+msgstr "لم يتم إرسال أي ملف."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:620
 msgid "The submitted file is empty."
-msgstr ""
+msgstr "الملف المُرسل فارغ."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:622
 #, python-format
 msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "تأكد ألا يزيد اسم الملف عن %(max)d حرف (حاليًا طوله %(length)d)."
+msgstr[1] "تأكد ألا يزيد اسم الملف عن %(max)d أحرف (حاليًا طوله %(length)d)."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:627
 msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr ""
+msgstr "يرجى إما إرسال ملف أو تحديد مربع المسح، وليس كلاهما."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:691
 msgid ""
 "Upload a valid image. The file you uploaded was either not an image or a "
 "corrupted image."
-msgstr ""
+msgstr "ارفع صورة صحيحة. الملف الذي رفعته ليس صورة أو أنه تالف."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:854
-#: .\venv\Lib\site-packages\django\forms\fields.py:946
-#: .\venv\Lib\site-packages\django\forms\models.py:1566
 #, python-format
 msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr ""
+msgstr "اختر خيارًا صحيحًا. %(value)s ليس ضمن الخيارات المتاحة."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:948
-#: .\venv\Lib\site-packages\django\forms\fields.py:1067
-#: .\venv\Lib\site-packages\django\forms\models.py:1564
 msgid "Enter a list of values."
-msgstr ""
+msgstr "أدخل قائمة من القيم."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:1068
 msgid "Enter a complete value."
-msgstr ""
+msgstr "أدخل قيمة كاملة."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:1307
 msgid "Enter a valid UUID."
-msgstr ""
+msgstr "أدخل UUID صحيحًا."
 
-#: .\venv\Lib\site-packages\django\forms\fields.py:1337
 msgid "Enter a valid JSON."
-msgstr ""
+msgstr "أدخل JSON صحيحًا."
 
 #. Translators: This is the default suffix added to form field labels
-#: .\venv\Lib\site-packages\django\forms\forms.py:98
 msgid ":"
-msgstr ""
+msgstr ":"
 
-#: .\venv\Lib\site-packages\django\forms\forms.py:244
-#: .\venv\Lib\site-packages\django\forms\forms.py:328
 #, python-format
 msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
+msgstr "(حقل مخفي %(name)s) %(error)s"
 
-#: .\venv\Lib\site-packages\django\forms\formsets.py:63
 #, python-format
 msgid ""
 "ManagementForm data is missing or has been tampered with. Missing fields: "
 "%(field_names)s. You may need to file a bug report if the issue persists."
 msgstr ""
+"بيانات ManagementForm مفقودة أو تم العبث بها. الحقول المفقودة: %(field_names)s. "
+"قد تحتاج لتقديم بلاغ خطأ إذا استمرت المشكلة."
 
-#: .\venv\Lib\site-packages\django\forms\formsets.py:67
 #, python-format
 msgid "Please submit at most %(num)d form."
 msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "يرجى إرسال %(num)d نموذج كحد أقصى."
+msgstr[1] "يرجى إرسال %(num)d نماذج كحد أقصى."
 
-#: .\venv\Lib\site-packages\django\forms\formsets.py:72
 #, python-format
 msgid "Please submit at least %(num)d form."
 msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "يرجى إرسال %(num)d نموذج على الأقل."
+msgstr[1] "يرجى إرسال %(num)d نماذج على الأقل."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:886
 #, python-format
 msgid "Please correct the duplicate data for %(field)s."
-msgstr ""
+msgstr "يرجى تصحيح البيانات المكررة للحقل %(field)s."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:891
 #, python-format
 msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
+msgstr "يرجى تصحيح البيانات المكررة للحقل %(field)s، إذ يجب أن يكون فريدًا."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:898
 #, python-format
 msgid ""
 "Please correct the duplicate data for %(field_name)s which must be unique "
 "for the %(lookup)s in %(date_field)s."
 msgstr ""
+"يرجى تصحيح البيانات المكررة للحقل %(field_name)s، إذ يجب أن يكون فريدًا لـ %(lookup)s في %(date_field)s."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:907
 msgid "Please correct the duplicate values below."
-msgstr ""
+msgstr "يرجى تصحيح القيم المكررة أدناه."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:1338
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "القيمة المضمنة لا تطابق الكائن/المثيل الرئيسي."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:1429
 msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr ""
+msgstr "اختر خيارًا صحيحًا. هذا الخيار ليس ضمن الخيارات المتاحة."
 
-#: .\venv\Lib\site-packages\django\forms\models.py:1568
 #, python-format
 msgid "“%(pk)s” is not a valid value."
-msgstr ""
+msgstr "“%(pk)s” ليست قيمة صحيحة."
 
-#: .\venv\Lib\site-packages\django\forms\utils.py:226
 #, python-format
 msgid ""
 "%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
 "may be ambiguous or it may not exist."
 msgstr ""
+"تعذر تفسير %(datetime)s ضمن المنطقة الزمنية %(current_timezone)s؛ "
+"قد يكون ملتبسًا أو غير موجود."
 
-#: .\venv\Lib\site-packages\django\forms\widgets.py:439
 msgid "Clear"
 msgstr "مسح"
 
-#: .\venv\Lib\site-packages\django\forms\widgets.py:440
 msgid "Currently"
 msgstr "حاليًا"
 
-#: .\venv\Lib\site-packages\django\forms\widgets.py:441
 msgid "Change"
 msgstr "تغيير"
 
-#: .\venv\Lib\site-packages\django\forms\widgets.py:770
 msgid "Unknown"
 msgstr "غير معروف"
 
 #. Translators: Please do not add spaces around commas.
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:861
 msgid "yes,no,maybe"
-msgstr ""
+msgstr "نعم,لا,ربما"
 
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:891
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:908
 #, python-format
 msgid "%(size)d byte"
 msgid_plural "%(size)d bytes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(size)d بايت"
+msgstr[1] "%(size)d بايت"
 
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:910
 #, python-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s كيلوبايت"
 
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:912
 #, python-format
 msgid "%s MB"
-msgstr ""
+msgstr "%s ميغابايت"
 
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:914
 #, python-format
 msgid "%s GB"
-msgstr ""
+msgstr "%s غيغابايت"
 
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:916
 #, python-format
 msgid "%s TB"
-msgstr ""
+msgstr "%s تيرابايت"
 
-#: .\venv\Lib\site-packages\django\template\defaultfilters.py:918
 #, python-format
 msgid "%s PB"
-msgstr ""
+msgstr "%s بيتابايت"
 
-#: .\venv\Lib\site-packages\django\utils\dateformat.py:73
 msgid "p.m."
-msgstr ""
+msgstr "م"
 
-#: .\venv\Lib\site-packages\django\utils\dateformat.py:74
 msgid "a.m."
-msgstr ""
+msgstr "ص"
 
-#: .\venv\Lib\site-packages\django\utils\dateformat.py:79
 msgid "PM"
-msgstr ""
+msgstr "م"
 
-#: .\venv\Lib\site-packages\django\utils\dateformat.py:80
 msgid "AM"
-msgstr ""
+msgstr "ص"
 
-#: .\venv\Lib\site-packages\django\utils\dateformat.py:152
 msgid "midnight"
-msgstr ""
+msgstr "منتصف الليل"
 
-#: .\venv\Lib\site-packages\django\utils\dateformat.py:154
 msgid "noon"
-msgstr ""
+msgstr "الظهيرة"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:7
 msgid "Monday"
-msgstr ""
+msgstr "الاثنين"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:8
 msgid "Tuesday"
-msgstr ""
+msgstr "الثلاثاء"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:9
 msgid "Wednesday"
-msgstr ""
+msgstr "الأربعاء"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:10
 msgid "Thursday"
-msgstr ""
+msgstr "الخميس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:11
 msgid "Friday"
-msgstr ""
+msgstr "الجمعة"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:12
 msgid "Saturday"
-msgstr ""
+msgstr "السبت"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:13
 msgid "Sunday"
-msgstr ""
+msgstr "الأحد"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:16
 msgid "Mon"
-msgstr ""
+msgstr "اث"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:17
 msgid "Tue"
-msgstr ""
+msgstr "ثل"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:18
 msgid "Wed"
-msgstr ""
+msgstr "أر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:19
 msgid "Thu"
-msgstr ""
+msgstr "خم"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:20
 msgid "Fri"
-msgstr ""
+msgstr "جم"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:21
 msgid "Sat"
-msgstr ""
+msgstr "سب"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:22
 msgid "Sun"
-msgstr ""
+msgstr "أح"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:25
 msgid "January"
-msgstr ""
+msgstr "يناير"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:26
 msgid "February"
-msgstr ""
+msgstr "فبراير"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:27
-#, fuzzy
-#| msgid "Search"
 msgid "March"
-msgstr "بحث"
+msgstr "مارس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:28
 msgid "April"
-msgstr ""
+msgstr "أبريل"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:29
 msgid "May"
-msgstr ""
+msgstr "مايو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:30
 msgid "June"
-msgstr ""
+msgstr "يونيو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:31
 msgid "July"
-msgstr ""
+msgstr "يوليو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:32
 msgid "August"
-msgstr ""
+msgstr "أغسطس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:33
 msgid "September"
-msgstr ""
+msgstr "سبتمبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:34
 msgid "October"
-msgstr ""
+msgstr "أكتوبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:35
 msgid "November"
-msgstr ""
+msgstr "نوفمبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:36
 msgid "December"
-msgstr ""
+msgstr "ديسمبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:39
 msgid "jan"
-msgstr ""
+msgstr "ينا"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:40
 msgid "feb"
-msgstr ""
+msgstr "فبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:41
 msgid "mar"
-msgstr ""
+msgstr "مار"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:42
 msgid "apr"
-msgstr ""
+msgstr "أبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:43
-#, fuzzy
-#| msgid "Company"
 msgid "may"
-msgstr "الشركة"
+msgstr "ماي"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:44
 msgid "jun"
-msgstr ""
+msgstr "يون"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:45
 msgid "jul"
-msgstr ""
+msgstr "يول"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:46
 msgid "aug"
-msgstr ""
+msgstr "أغس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:47
 msgid "sep"
-msgstr ""
+msgstr "سبت"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:48
-#, fuzzy
-#| msgid "Contact"
 msgid "oct"
-msgstr "تواصل معنا"
+msgstr "أكت"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:49
 msgid "nov"
-msgstr ""
+msgstr "نوف"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:50
 msgid "dec"
-msgstr ""
+msgstr "ديس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:53
 msgctxt "abbrev. month"
 msgid "Jan."
-msgstr ""
+msgstr "ينا."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:54
 msgctxt "abbrev. month"
 msgid "Feb."
-msgstr ""
+msgstr "فبر."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:55
-#, fuzzy
-#| msgid "Search"
 msgctxt "abbrev. month"
 msgid "March"
-msgstr "بحث"
+msgstr "مارس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:56
 msgctxt "abbrev. month"
 msgid "April"
-msgstr ""
+msgstr "أبريل"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:57
 msgctxt "abbrev. month"
 msgid "May"
-msgstr ""
+msgstr "مايو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:58
 msgctxt "abbrev. month"
 msgid "June"
-msgstr ""
+msgstr "يونيو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:59
 msgctxt "abbrev. month"
 msgid "July"
-msgstr ""
+msgstr "يوليو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:60
 msgctxt "abbrev. month"
 msgid "Aug."
-msgstr ""
+msgstr "أغس."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:61
 msgctxt "abbrev. month"
 msgid "Sept."
-msgstr ""
+msgstr "سبت."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:62
 msgctxt "abbrev. month"
 msgid "Oct."
-msgstr ""
+msgstr "أكت."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:63
 msgctxt "abbrev. month"
 msgid "Nov."
-msgstr ""
+msgstr "نوف."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:64
 msgctxt "abbrev. month"
 msgid "Dec."
-msgstr ""
+msgstr "ديس."
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:67
 msgctxt "alt. month"
 msgid "January"
-msgstr ""
+msgstr "يناير"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:68
 msgctxt "alt. month"
 msgid "February"
-msgstr ""
+msgstr "فبراير"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:69
-#, fuzzy
-#| msgid "Search"
 msgctxt "alt. month"
 msgid "March"
-msgstr "بحث"
+msgstr "مارس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:70
 msgctxt "alt. month"
 msgid "April"
-msgstr ""
+msgstr "أبريل"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:71
 msgctxt "alt. month"
 msgid "May"
-msgstr ""
+msgstr "مايو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:72
 msgctxt "alt. month"
 msgid "June"
-msgstr ""
+msgstr "يونيو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:73
 msgctxt "alt. month"
 msgid "July"
-msgstr ""
+msgstr "يوليو"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:74
 msgctxt "alt. month"
 msgid "August"
-msgstr ""
+msgstr "أغسطس"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:75
 msgctxt "alt. month"
 msgid "September"
-msgstr ""
+msgstr "سبتمبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:76
 msgctxt "alt. month"
 msgid "October"
-msgstr ""
+msgstr "أكتوبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:77
 msgctxt "alt. month"
 msgid "November"
-msgstr ""
+msgstr "نوفمبر"
 
-#: .\venv\Lib\site-packages\django\utils\dates.py:78
 msgctxt "alt. month"
 msgid "December"
-msgstr ""
+msgstr "ديسمبر"
 
-#: .\venv\Lib\site-packages\django\utils\ipv6.py:8
 msgid "This is not a valid IPv6 address."
-msgstr ""
+msgstr "هذا ليس عنوان IPv6 صحيحًا."
 
-#: .\venv\Lib\site-packages\django\utils\text.py:78
 #, python-format
 msgctxt "String to return when truncating text"
 msgid "%(truncated_text)s…"
-msgstr ""
+msgstr "%(truncated_text)s…"
 
-#: .\venv\Lib\site-packages\django\utils\text.py:254
 msgid "or"
-msgstr ""
+msgstr "أو"
 
 #. Translators: This string is used as a separator between list elements
-#: .\venv\Lib\site-packages\django\utils\text.py:273
-#: .\venv\Lib\site-packages\django\utils\timesince.py:131
 msgid ", "
-msgstr ""
+msgstr "، "
 
-#: .\venv\Lib\site-packages\django\utils\timesince.py:8
 #, python-format
 msgid "%(num)d year"
 msgid_plural "%(num)d years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(num)d سنة"
+msgstr[1] "%(num)d سنوات"
 
-#: .\venv\Lib\site-packages\django\utils\timesince.py:9
 #, python-format
 msgid "%(num)d month"
 msgid_plural "%(num)d months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(num)d شهر"
+msgstr[1] "%(num)d أشهر"
 
-#: .\venv\Lib\site-packages\django\utils\timesince.py:10
 #, python-format
 msgid "%(num)d week"
 msgid_plural "%(num)d weeks"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(num)d أسبوع"
+msgstr[1] "%(num)d أسابيع"
 
-#: .\venv\Lib\site-packages\django\utils\timesince.py:11
 #, python-format
 msgid "%(num)d day"
 msgid_plural "%(num)d days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(num)d يوم"
+msgstr[1] "%(num)d أيام"
 
-#: .\venv\Lib\site-packages\django\utils\timesince.py:12
 #, python-format
 msgid "%(num)d hour"
 msgid_plural "%(num)d hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(num)d ساعة"
+msgstr[1] "%(num)d ساعات"
 
-#: .\venv\Lib\site-packages\django\utils\timesince.py:13
 #, python-format
 msgid "%(num)d minute"
 msgid_plural "%(num)d minutes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "%(num)d دقيقة"
+msgstr[1] "%(num)d دقائق"
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:111
 msgid "Forbidden"
 msgstr "ممنوع"
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:112
 msgid "CSRF verification failed. Request aborted."
-msgstr "فشل التحقق من CSRF. تم إلغاء الطلب."
+msgstr "فشل التحقق من CSRF. تم إيقاف الطلب."
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:116
 msgid ""
 "You are seeing this message because this HTTPS site requires a “Referer "
 "header” to be sent by your web browser, but none was sent. This header is "
 "required for security reasons, to ensure that your browser is not being "
 "hijacked by third parties."
 msgstr ""
+"تظهر لك هذه الرسالة لأن هذا الموقع عبر HTTPS يتطلب إرسال ترويسة “Referer” من متصفحك، "
+"لكن لم يتم إرسالها. هذه الترويسة مطلوبة لأسباب أمنية لضمان عدم اختطاف متصفحك من طرف جهات خارجية."
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:122
 msgid ""
 "If you have configured your browser to disable “Referer” headers, please re-"
 "enable them, at least for this site, or for HTTPS connections, or for “same-"
 "origin” requests."
 msgstr ""
+"إذا قمت بإعداد متصفحك لتعطيل ترويسات “Referer”، يرجى إعادة تفعيلها على الأقل لهذا الموقع "
+"أو لاتصالات HTTPS أو لطلبات “نفس المصدر” (same-origin)."
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:127
 msgid ""
 "If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
 "including the “Referrer-Policy: no-referrer” header, please remove them. The "
@@ -3501,113 +2372,95 @@ msgid ""
 "If you’re concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" …> for links to third-party sites."
 msgstr ""
+"إذا كنت تستخدم وسم <meta name=\"referrer\" content=\"no-referrer\"> أو تضيف ترويسة "
+"“Referrer-Policy: no-referrer”، يرجى إزالتها. حماية CSRF تتطلب ترويسة “Referer” لإجراء تحقق صارم. "
+"إذا كنت قلقًا بشأن الخصوصية، استخدم بدائل مثل <a rel=\"noreferrer\" …> للروابط إلى مواقع الطرف الثالث."
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:136
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
 "submitting forms. This cookie is required for security reasons, to ensure "
 "that your browser is not being hijacked by third parties."
 msgstr ""
+"تظهر لك هذه الرسالة لأن هذا الموقع يتطلب ملف تعريف ارتباط (Cookie) خاصًا بـ CSRF عند إرسال النماذج. "
+"هذا الملف مطلوب لأسباب أمنية لضمان عدم اختطاف متصفحك من طرف جهات خارجية."
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:142
 msgid ""
 "If you have configured your browser to disable cookies, please re-enable "
 "them, at least for this site, or for “same-origin” requests."
 msgstr ""
+"إذا قمت بإعداد متصفحك لتعطيل ملفات تعريف الارتباط (Cookies)، يرجى إعادة تفعيلها على الأقل لهذا الموقع "
+"أو لطلبات “نفس المصدر” (same-origin)."
 
-#: .\venv\Lib\site-packages\django\views\csrf.py:148
-#, fuzzy
-#| msgid "Stock information not available"
 msgid "More information is available with DEBUG=True."
-msgstr "معلومات المخزون غير متاحة"
+msgstr "مزيد من المعلومات متاح عند تفعيل DEBUG=True."
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:44
 msgid "No year specified"
-msgstr ""
+msgstr "لم يتم تحديد سنة"
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:64
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:115
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:214
 msgid "Date out of range"
-msgstr ""
+msgstr "التاريخ خارج النطاق"
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:94
 msgid "No month specified"
-msgstr ""
+msgstr "لم يتم تحديد شهر"
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:147
 msgid "No day specified"
-msgstr ""
+msgstr "لم يتم تحديد يوم"
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:194
 msgid "No week specified"
-msgstr ""
+msgstr "لم يتم تحديد أسبوع"
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:349
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:380
-#, fuzzy, python-format
-#| msgid "No brands available."
+#, python-format
 msgid "No %(verbose_name_plural)s available"
-msgstr "لا توجد علامات تجارية متاحة."
+msgstr "لا توجد %(verbose_name_plural)s متاحة"
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:652
 #, python-format
 msgid ""
 "Future %(verbose_name_plural)s not available because %(class_name)s."
 "allow_future is False."
 msgstr ""
+"الـ %(verbose_name_plural)s المستقبلية غير متاحة لأن %(class_name)s.allow_future مضبوط على False."
 
-#: .\venv\Lib\site-packages\django\views\generic\dates.py:692
 #, python-format
 msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr ""
+msgstr "سلسلة تاريخ غير صالحة “%(datestr)s” للصيغة “%(format)s”"
 
-#: .\venv\Lib\site-packages\django\views\generic\detail.py:56
 #, python-format
 msgid "No %(verbose_name)s found matching the query"
-msgstr ""
+msgstr "لم يتم العثور على %(verbose_name)s مطابق للاستعلام"
 
-#: .\venv\Lib\site-packages\django\views\generic\list.py:70
 msgid "Page is not “last”, nor can it be converted to an int."
-msgstr ""
+msgstr "الصفحة ليست “last”، ولا يمكن تحويلها إلى رقم صحيح."
 
-#: .\venv\Lib\site-packages\django\views\generic\list.py:77
 #, python-format
 msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr ""
+msgstr "صفحة غير صالحة (%(page_number)s): %(message)s"
 
-#: .\venv\Lib\site-packages\django\views\generic\list.py:169
 #, python-format
 msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr ""
+msgstr "القائمة فارغة و “%(class_name)s.allow_empty” مضبوط على False."
 
-#: .\venv\Lib\site-packages\django\views\static.py:38
 msgid "Directory indexes are not allowed here."
-msgstr ""
+msgstr "فهرسة المجلدات غير مسموح بها هنا."
 
-#: .\venv\Lib\site-packages\django\views\static.py:40
 #, python-format
 msgid "“%(path)s” does not exist"
-msgstr ""
+msgstr "“%(path)s” غير موجود"
 
-#: .\venv\Lib\site-packages\django\views\static.py:79
 #, python-format
 msgid "Index of %(directory)s"
-msgstr ""
+msgstr "فهرس %(directory)s"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:221
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "تم التثبيت بنجاح! تهانينا!"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:207
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"اطّلع على <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">ملاحظات الإصدار</a> لـ Django %(version)s"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:222
 #, python-format
 msgid ""
 "You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
@@ -3615,29 +2468,24 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"تظهر لك هذه الصفحة لأن <a href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> موجودة في ملف الإعدادات لديك "
+"ولم تقم بتهيئة أي روابط (URLs)."
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:230
-#, fuzzy
-#| msgid "Documentation"
 msgid "Django Documentation"
-msgstr "التوثيق"
+msgstr "توثيق Django"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:231
 msgid "Topics, references, &amp; how-to’s"
-msgstr ""
+msgstr "مواضيع ومراجع وأدلة &amp; كيفية الاستخدام"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:239
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "درس: تطبيق الاستطلاع"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:240
 msgid "Get started with Django"
-msgstr ""
+msgstr "ابدأ مع Django"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:248
 msgid "Django Community"
-msgstr ""
+msgstr "مجتمع Django"
 
-#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:249
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "تواصل، احصل على المساعدة، أو ساهم"

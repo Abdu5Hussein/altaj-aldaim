@@ -17,9 +17,9 @@ from django.utils.translation import gettext_lazy as _
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-WEBSITE_NAME = "United Group"
-WEBSITE_NAME_AR = "المجموعة المتحدة"
-WEBSITE_DESCRIPTION = 'تأسست المجموعة المتحدة لصناعة الألياف الزجاجية والرخام الصناعي سنة 2021، حيث كان أساسها مصنع لصناعة الألياف الزجاجية والرخام الصناعي وذلك سنة 2006. وواكبت مراحل تطوير صناعة الألياف الزجاجية والرخام الصناعي مما جعلها شركة عريقة بخبرة طويلة وجودة موثوقة.'
+WEBSITE_NAME = "Altaj Aldaim Ltd."
+WEBSITE_NAME_AR = "التاج الدائم"
+WEBSITE_DESCRIPTION = "شركة التاج الدائم ذات المسؤولية المحدودة"
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/

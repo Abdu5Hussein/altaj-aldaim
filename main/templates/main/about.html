@@ -1,224 +1,514 @@
 {% extends 'main/base.html' %} {% load static i18n %}
+
 <!-- prettier-ignore -->
 {% block title %}
-{% trans "About Us - United Group" %}
-{% endblock %} {% block content %}
+{% trans "About Us - Altaj Aldaim" %}
+{% endblock %}
 
-<!-- Page Header -->
-<section class="py-5 bg-primary text-white mt-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center" data-aos="fade-up">
-        <h1 class="display-4 fw-bold mb-4">{% trans "About United Group" %}</h1>
-        <p class="lead mb-0">
+{% block content %}
+<div class="landing-page">
+  <!-- =========================================================
+    HERO (Home-like)
+  ========================================================= -->
+  <section class="hero-landing position-relative overflow-hidden hero-about">
+    <div class="hero-overlay" aria-hidden="true"></div>
+
+    <div class="container-full">
+      <div class="row align-items-center py-5 min-vh-60">
+        <div class="col-lg-7" data-aos="fade-right">
+          <h1 class="display-4 fw-bold mb-3 text-white">
+            {% trans "About Altaj Aldaim" %}
+          </h1>
+
           <!-- prettier-ignore -->
+          <p class="lead mb-4 hero-subtitle">
+            {% blocktrans %}
+            We specialize in premium engine oils, lubricants, and automotive fluids—combined with trusted service support to keep vehicles running at peak performance.
+            {% endblocktrans %}
+          </p>
+
+          <div class="d-flex flex-wrap gap-3">
+            <a href="#story" class="btn btn-light btn-lg px-5">
+              <i class="fas fa-book-open mx-2" aria-hidden="true"></i>
+              {% trans "Our Story" %}
+            </a>
+            <a
+              href="{% url 'contact' %}"
+              class="btn btn-outline-light btn-lg px-5"
+            >
+              <i class="fas fa-headset mx-2" aria-hidden="true"></i>
+              {% trans "Get Advice" %}
+            </a>
+          </div>
+
+          <div class="d-flex flex-wrap gap-3 mt-4">
+            <div class="stat-pill">
+              <span class="stat-num">100%</span>
+              <span class="stat-label">{% trans "Original products" %}</span>
+            </div>
+            <div class="stat-pill">
+              <span class="stat-num">24/7</span>
+              <span class="stat-label">{% trans "Support & guidance" %}</span>
+            </div>
+            <div class="stat-pill">
+              <span class="stat-num">Fast</span>
+              <span class="stat-label"
+                >{% trans "Delivery & availability" %}</span
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-5" data-aos="fade-left">
+          <div class="hero-media text-center">
+            <img
+              src="{% static 'main/img/oil-bottle-hero.png' %}"
+              alt="{% trans 'Premium Engine Oil' %}"
+              class="img-fluid hero-img"
+              loading="eager"
+              decoding="async"
+              onerror="
+                this.onerror = null;
+                this.src =
+                  'https://images.unsplash.com/photo-1563720223485-8d6d5c5c8c9b?auto=format&fit=crop&w=900&q=80';
+              "
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================
+    STORY
+  ========================================================= -->
+  <section id="story" class="py-5 px-5">
+    <div class="container-full">
+      <div class="row g-4 align-items-center">
+        <div class="col-lg-6" data-aos="fade-right">
+          <h2 class="fw-bold mb-3">{% trans "Our Story" %}</h2>
+
+          <!-- prettier-ignore -->
+          <p class="text-muted mb-3">
+            {% blocktrans %}
+            Altaj Aldaim was created to make choosing the right engine oil simple and reliable. We focus on supplying original, high-quality oils and fluids that match manufacturer specifications—so drivers and workshops can protect engines, improve efficiency, and extend vehicle life.
+            {% endblocktrans %}
+          </p>
+
+          <!-- prettier-ignore -->
+          <p class="text-muted mb-0">
+            {% blocktrans %}
+            Over time, we expanded beyond products into service support: helping customers select correct viscosity grades (such as 5W-30 and 10W-40), understand oil standards, and plan regular maintenance—backed by consistent availability and dependable delivery.
+            {% endblocktrans %}
+          </p>
+        </div>
+
+        <div class="col-lg-6" data-aos="fade-left">
+          <div class="card-elev p-4">
+            <div class="row g-3">
+              <div class="col-12">
+                <div class="info-row">
+                  <div class="info-ico bg-primary-subtle text-primary">
+                    <i class="fas fa-certificate" aria-hidden="true"></i>
+                  </div>
+                  <div>
+                    <h6 class="mb-1 fw-bold">
+                      {% trans "Quality & Authenticity" %}
+                    </h6>
+                    <!-- prettier-ignore -->
+                    <p class="mb-0 text-muted">
+                      {% blocktrans %}
+                      We supply original oils and fluids from trusted brands—stored and handled properly to preserve performance.
+                      {% endblocktrans %}
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12">
+                <div class="info-row">
+                  <div class="info-ico bg-success-subtle text-success">
+                    <i class="fas fa-wrench" aria-hidden="true"></i>
+                  </div>
+                  <div>
+                    <h6 class="mb-1 fw-bold">{% trans "Service Guidance" %}</h6>
+                    <!-- prettier-ignore -->
+                    <p class="mb-0 text-muted">
+                      {% blocktrans %}
+                      Practical recommendations for oil type, intervals, and fluids—based on driving conditions and vehicle needs.
+                      {% endblocktrans %}
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12">
+                <div class="info-row">
+                  <div class="info-ico bg-warning-subtle text-warning">
+                    <i class="fas fa-truck-fast" aria-hidden="true"></i>
+                  </div>
+                  <div>
+                    <h6 class="mb-1 fw-bold">
+                      {% trans "Availability & Delivery" %}
+                    </h6>
+                    <!-- prettier-ignore -->
+                    <p class="mb-0 text-muted">
+                      {% blocktrans %}
+                      Fast fulfillment for drivers and workshops—so the right oil is always ready when maintenance is due.
+                      {% endblocktrans %}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================
+    MISSION / VISION
+  ========================================================= -->
+  <section class="py-5 px-5 bg-dynamic">
+    <div class="container-full">
+      <div class="text-center mb-5" data-aos="fade-up">
+        <h2 class="display-6 fw-bold mb-2 text-white">
+          {% trans "Mission & Vision" %}
+        </h2>
+        <p class="text-white-50 mb-0">
+          {% trans "Performance, protection, and trusted service." %}
+        </p>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-lg-6" data-aos="fade-up">
+          <div class="card-elev h-100 p-4">
+            <div class="d-flex align-items-center gap-3 mb-3">
+              <div class="feature-icon-sm bg-primary text-white">
+                <i class="fas fa-bolt" aria-hidden="true"></i>
+              </div>
+              <h3 class="fw-bold mb-0">{% trans "Our Mission" %}</h3>
+            </div>
+
+            <!-- prettier-ignore -->
+            <p class="text-muted mb-3">
+              {% blocktrans %}
+              To deliver premium engine oils and automotive fluids—supported by honest recommendations and dependable service—so every vehicle gets the right protection and performance.
+              {% endblocktrans %}
+            </p>
+
+            <ul class="list-unstyled text-muted mb-0">
+              <li class="mb-2">
+                <i
+                  class="fas fa-check-circle text-success mx-2"
+                  aria-hidden="true"
+                ></i>
+                {% trans "Original oils & trusted brands" %}
+              </li>
+              <li class="mb-2">
+                <i
+                  class="fas fa-check-circle text-success mx-2"
+                  aria-hidden="true"
+                ></i>
+                {% trans "Correct specs & viscosity guidance" %}
+              </li>
+              <li>
+                <i
+                  class="fas fa-check-circle text-success mx-2"
+                  aria-hidden="true"
+                ></i>
+                {% trans "Reliable supply & support for workshops" %}
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="card-elev h-100 p-4">
+            <div class="d-flex align-items-center gap-3 mb-3">
+              <div class="feature-icon-sm bg-warning text-white">
+                <i class="fas fa-eye" aria-hidden="true"></i>
+              </div>
+              <h3 class="fw-bold mb-0">{% trans "Our Vision" %}</h3>
+            </div>
+
+            <!-- prettier-ignore -->
+            <p class="text-muted mb-3">
+              {% blocktrans %}
+              To be the most trusted destination for car oils and automotive services—known for authenticity, technical knowledge, and customer-first delivery.
+              {% endblocktrans %}
+            </p>
+
+            <ul class="list-unstyled text-muted mb-0">
+              <li class="mb-2">
+                <i class="fas fa-star text-warning mx-2" aria-hidden="true"></i>
+                {% trans "Better service and faster response" %}
+              </li>
+              <li class="mb-2">
+                <i class="fas fa-star text-warning mx-2" aria-hidden="true"></i>
+                {% trans "More products and fluid solutions" %}
+              </li>
+              <li>
+                <i class="fas fa-star text-warning mx-2" aria-hidden="true"></i>
+                {% trans "Stronger partnerships with workshops" %}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================
+    WHAT WE OFFER
+  ========================================================= -->
+  <section class="py-5 px-5">
+    <div class="container-full">
+      <div class="text-center mb-5" data-aos="fade-up">
+        <h2 class="display-5 fw-bold mb-3">{% trans "What We Offer" %}</h2>
+
+        <!-- prettier-ignore -->
+        <p class="lead text-muted">
           {% blocktrans %}
-          A trusted manufacturer of fiberglass and artificial marble solutions—built on experience, quality, and reliable delivery.
+          High-quality oils and fluids—plus practical guidance and service support to match your vehicle and driving conditions.
           {% endblocktrans %}
         </p>
       </div>
-    </div>
-  </div>
-</section>
 
-<!-- Company Story -->
-<section class="py-5">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6" data-aos="fade-right">
-        <h2 class="fw-bold mb-4">{% trans "Our Story" %}</h2>
+      <div class="row g-4">
+        <div class="col-md-4" data-aos="fade-up">
+          <div class="card-elev h-100 p-4 text-center">
+            <div
+              class="feature-icon bg-primary rounded-circle d-inline-flex align-items-center justify-content-center mb-3"
+            >
+              <i class="fas fa-oil-can fa-2x text-white" aria-hidden="true"></i>
+            </div>
+            <h5 class="fw-bold mb-2">{% trans "Engine Oils" %}</h5>
 
-        <p class="text-muted mb-4">
-          <!-- prettier-ignore -->
-          {% blocktrans %}
-          United Group was established in 2021, building on a factory that has been producing fiberglass and artificial marble since 2006. Over the years, we have evolved with the industry and expanded our capabilities to serve projects of different sizes—while maintaining consistent quality and workmanship.
-          {% endblocktrans %}
-        </p>
-
-        <p class="text-muted mb-4">
-          <!-- prettier-ignore -->
-          {% blocktrans %}
-          Today, we deliver integrated manufacturing solutions including fiberglass products, artificial marble items, custom molds, finishing and installation support—designed to meet project requirements with durability, precision, and dependable schedules.
-          {% endblocktrans %}
-        </p>
-
-        <div class="d-flex gap-3 flex-wrap">
-          <div class="text-center">
-            <h4 class="fw-bold text-primary">2006</h4>
-            <p class="text-muted mb-0">{% trans "Factory roots" %}</p>
-          </div>
-          <div class="text-center">
-            <h4 class="fw-bold text-primary">2021</h4>
+            <!-- prettier-ignore -->
             <p class="text-muted mb-0">
-              {% trans "United Group established" %}
+              {% blocktrans %}
+              Synthetic and mineral oils in popular grades like 5W-30, 10W-40, and more—selected for protection, cleanliness, and efficiency.
+              {% endblocktrans %}
             </p>
           </div>
-          <div class="text-center">
-            <h4 class="fw-bold text-primary">500+</h4>
-            <p class="text-muted mb-0">{% trans "Projects delivered" %}</p>
+        </div>
+
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="card-elev h-100 p-4 text-center">
+            <div
+              class="feature-icon bg-warning rounded-circle d-inline-flex align-items-center justify-content-center mb-3"
+            >
+              <i class="fas fa-tint fa-2x text-white" aria-hidden="true"></i>
+            </div>
+            <h5 class="fw-bold mb-2">{% trans "Fluids & Lubricants" %}</h5>
+
+            <!-- prettier-ignore -->
+            <p class="text-muted mb-0">
+              {% blocktrans %}
+              Transmission fluids, brake fluids, coolants, power steering fluids, and greases—built for consistent performance in heat and heavy use.
+              {% endblocktrans %}
+            </p>
+          </div>
+        </div>
+
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="card-elev h-100 p-4 text-center">
+            <div
+              class="feature-icon bg-success rounded-circle d-inline-flex align-items-center justify-content-center mb-3"
+            >
+              <i class="fas fa-tools fa-2x text-white" aria-hidden="true"></i>
+            </div>
+            <h5 class="fw-bold mb-2">{% trans "Service Support" %}</h5>
+
+            <!-- prettier-ignore -->
+            <p class="text-muted mb-0">
+              {% blocktrans %}
+              Help selecting the correct oil and service plan, recommendations for maintenance intervals, and support for workshops and fleet customers.
+              {% endblocktrans %}
+            </p>
           </div>
         </div>
       </div>
-
-      <div class="col-lg-6" data-aos="fade-left">
-        <div class="modern-card p-4">
-          <img
-            src="{% static 'main/img/img-1.jpeg' %}"
-            alt="{% trans 'Manufacturing & finishing' %}"
-            class="img-fluid rounded-3"
-          />
-        </div>
-      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Mission & Vision -->
-<section class="py-5 section-alt">
-  <div class="container">
-    <div class="row g-4">
-      <!-- Mission -->
-      <div class="col-lg-6" data-aos="fade-up">
-        <div class="modern-card h-100 p-4">
-          <div class="text-center mb-4">
-            <i class="fas fa-industry fa-3x text-primary mb-3"></i>
-            <h3 class="fw-bold">{% trans "Our Mission" %}</h3>
-          </div>
-          <p class="text-muted">
-            <!-- prettier-ignore -->
-            {% blocktrans %}
-            To provide high-quality fiberglass and artificial marble manufacturing solutions that meet project needs—delivered with precision, durability, and trusted timelines.
-            {% endblocktrans %}
-          </p>
-          <ul class="list-unstyled text-muted">
-            <li class="mb-2">
-              <i class="fas fa-check-circle text-success me-2"></i>
-              {% trans "Quality-focused production" %}
-            </li>
-            <li class="mb-2">
-              <i class="fas fa-check-circle text-success me-2"></i>
-              {% trans "Custom solutions for projects" %}
-            </li>
-            <li class="mb-2">
-              <i class="fas fa-check-circle text-success me-2"></i>
-              {% trans "Professional finishing & delivery" %}
-            </li>
-          </ul>
-        </div>
-      </div>
+  <!-- =========================================================
+    CTA (Home-like)
+  ========================================================= -->
+  <section class="py-5 px-5 bg-primary text-white">
+    <div class="container-full">
+      <div class="row align-items-center">
+        <div class="col-lg-8" data-aos="fade-right">
+          <h2 class="display-6 fw-bold mb-2">
+            {% trans "Need Help Choosing the Right Oil?" %}
+          </h2>
 
-      <!-- Vision -->
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-        <div class="modern-card h-100 p-4">
-          <div class="text-center mb-4">
-            <i class="fas fa-lightbulb fa-3x text-primary mb-3"></i>
-            <h3 class="fw-bold">{% trans "Our Vision" %}</h3>
-          </div>
-          <p class="text-muted">
-            <!-- prettier-ignore -->
-            {% blocktrans %}
-            To become a leading manufacturer in the region for fiberglass and artificial marble—recognized for innovation, craftsmanship, and reliable project execution.
-            {% endblocktrans %}
-          </p>
-          <ul class="list-unstyled text-muted">
-            <li class="mb-2">
-              <i class="fas fa-star text-warning me-2"></i>
-              {% trans "Continuous improvement & innovation" %}
-            </li>
-            <li class="mb-2">
-              <i class="fas fa-star text-warning me-2"></i>
-              {% trans "Reliable project partnerships" %}
-            </li>
-            <li class="mb-2">
-              <i class="fas fa-star text-warning me-2"></i>
-              {% trans "Expanding products & capabilities" %}
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- What We Do -->
-<section class="py-5">
-  <div class="container">
-    <div class="text-center mb-5" data-aos="fade-up">
-      <h2 class="display-5 fw-bold mb-3">{% trans "What We Do" %}</h2>
-      <p class="lead text-muted">
-        <!-- prettier-ignore -->
-        {% blocktrans %}
-        We deliver manufacturing solutions for fiberglass and artificial marble—built for durability, clean finishing, and real project requirements.
-        {% endblocktrans %}
-      </p>
-    </div>
-
-    <div class="row g-4">
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="modern-card h-100 p-4 text-center">
-          <i class="fas fa-layer-group fa-2x text-primary mb-3"></i>
-          <h5 class="fw-bold mb-3">{% trans "Fiberglass Products" %}</h5>
-          <p class="text-muted">
-            <!-- prettier-ignore -->
-            {% blocktrans %}
-            Manufacturing fiberglass items and components with strong materials, accurate molding, and consistent finishing—suitable for industrial and project use.
-            {% endblocktrans %}
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
-        <div class="modern-card h-100 p-4 text-center">
-          <i class="fas fa-gem fa-2x text-warning mb-3"></i>
-          <h5 class="fw-bold mb-3">{% trans "Artificial Marble" %}</h5>
-          <p class="text-muted">
-            <!-- prettier-ignore -->
-            {% blocktrans %}
-            Producing artificial marble solutions with attractive finishes and durable performance—ideal for interiors, counters, and custom designs.
-            {% endblocktrans %}
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
-        <div class="modern-card h-100 p-4 text-center">
-          <i class="fas fa-tools fa-2x text-success mb-3"></i>
-          <h5 class="fw-bold mb-3">{% trans "Custom Manufacturing" %}</h5>
-          <p class="text-muted">
-            <!-- prettier-ignore -->
-            {% blocktrans %}
-            Tailored manufacturing for special requirements, including molds, sizing, finishing, and project support—delivered with clear specs and reliable timelines.
-            {% endblocktrans %}
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- CTA -->
-<section class="py-5 section-cta text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto" data-aos="zoom-in">
-        <h3 class="fw-bold mb-3">{% trans "Build with Confidence" %}</h3>
-        <p class="lead mb-4">
           <!-- prettier-ignore -->
-          {% blocktrans %}
-          Partner with United Group for dependable fiberglass and artificial marble solutions.
-          Tell us about your project and we will help you choose the right materials, finish, and execution plan.
-          {% endblocktrans %}
-        </p>
-        <a
-          href="{% url 'contact' %}"
-          class="btn btn-primary-modern btn-lg btn-modern"
-        >
-          <i class="fas fa-headset me-2"></i>
-          {% trans "Request a Quote" %}
-        </a>
+          <p class="lead mb-0">
+            {% blocktrans %}
+            Tell us your vehicle model and driving conditions, and our team will recommend the best oil grade and fluids for maximum protection.
+            {% endblocktrans %}
+          </p>
+        </div>
+
+        <div class="col-lg-4 text-lg-end mt-3 mt-lg-0" data-aos="fade-left">
+          <a href="{% url 'contact' %}" class="btn btn-light btn-lg px-5">
+            <i class="fas fa-headset mx-2" aria-hidden="true"></i>
+            {% trans "Contact Us" %}
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+</div>
 
+<style>
+  .landing-page {
+    overflow-x: hidden;
+  }
+
+  /* Hero similar to Home */
+  .hero-landing {
+    background: linear-gradient(
+      135deg,
+      var(--primary) 0%,
+      var(--primary-light) 100%
+    );
+    color: #fff;
+    position: relative;
+    padding: 2rem 6rem;
+    isolation: isolate;
+  }
+  .hero-about .min-vh-60 {
+    min-height: 60vh;
+  }
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(
+        circle at 20% 10%,
+        rgba(255, 255, 255, 0.12),
+        transparent 45%
+      ),
+      rgba(0, 0, 0, 0.35);
+    z-index: 0;
+  }
+  .hero-landing .container-full {
+    position: relative;
+    z-index: 1;
+  }
+  .hero-subtitle {
+    max-width: 60ch;
+  }
+
+  .hero-media {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 18px;
+    padding: 14px;
+    backdrop-filter: blur(6px);
+  }
+  .hero-img {
+    border-radius: 14px;
+    max-height: 360px;
+    width: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.25));
+  }
+
+  /* Stat pills */
+  .stat-pill {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    padding: 10px 14px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  .stat-num {
+    font-weight: 800;
+    font-size: 1.05rem;
+    color: #fff;
+  }
+  .stat-label {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 0.95rem;
+  }
+
+  /* Card style from Home */
+  .card-elev {
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    background: #fff;
+    transition:
+      transform 0.25s ease,
+      box-shadow 0.25s ease;
+    height: 100%;
+  }
+  .card-elev:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+
+  .feature-icon-sm {
+    width: 46px;
+    height: 46px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+  }
+
+  .info-row {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .info-ico {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+  }
+
+  @media (max-width: 768px) {
+    .hero-landing {
+      padding: 4rem 1rem;
+    }
+    .hero-about .min-vh-60 {
+      min-height: auto;
+    }
+    .display-4 {
+      font-size: 2.2rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    [data-aos] {
+      transition: none !important;
+      transform: none !important;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.AOS) {
+      AOS.init({
+        duration: 800,
+        once: true,
+        offset: 100,
+        disable: window.innerWidth < 768,
+      });
+    }
+  });
+</script>
 {% endblock %}
